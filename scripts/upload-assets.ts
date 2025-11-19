@@ -19,8 +19,7 @@ import * as path from "path";
  */
 
 interface UploadResponse {
-  url: string;
-  path: string;
+  imageUrl: string;
 }
 
 interface CharacterVariant {
@@ -102,7 +101,7 @@ class AssetUploader {
       }
 
       const data = (await response.json()) as UploadResponse;
-      const cdnUrl = data["imageUrl"];
+      const cdnUrl = data.imageUrl;
       if(!cdnUrl) {
         throw new Error(
           `Upload completed but could not find url`

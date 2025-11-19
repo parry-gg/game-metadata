@@ -4,7 +4,7 @@
     {
       "metadata": {},
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/neutral Bowser.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e02-8157-74ae-be6f-ae8132a85d62.png"
       }
     },
     {
@@ -12,7 +12,7 @@
         "color": "black"
       },
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/black Bowser.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e02-8309-73c0-ba50-aaedbbbb7824.png"
       }
     },
     {
@@ -20,15 +20,15 @@
         "color": "blue"
       },
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/blue Bowser.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e02-84ab-760f-b4ae-8470609cda57.png"
       }
     },
     {
       "metadata": {
-        "color": "Giga"
+        "color": "giga"
       },
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/Giga Bowser.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e02-861d-7581-9dd6-5943056a363e.png"
       }
     },
     {
@@ -36,7 +36,7 @@
         "color": "red"
       },
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/red Bowser.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e02-882a-74d3-a646-22d300e2a844.png"
       }
     }
   ]
