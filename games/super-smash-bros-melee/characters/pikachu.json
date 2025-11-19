@@ -1,0 +1,35 @@
+{
+  "name": "Pikachu",
+  "variants": [
+    {
+      "metadata": {},
+      "images": {
+        "stock_icon": "./stock-icons/neutral Pikachu.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "blue"
+      },
+      "images": {
+        "stock_icon": "./stock-icons/blue Pikachu.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "green"
+      },
+      "images": {
+        "stock_icon": "./stock-icons/green Pikachu.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "red"
+      },
+      "images": {
+        "stock_icon": "./stock-icons/red Pikachu.png"
+      }
+    }
+  ]
+}

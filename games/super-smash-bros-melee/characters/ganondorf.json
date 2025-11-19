@@ -1,0 +1,43 @@
+{
+  "name": "Ganondorf",
+  "variants": [
+    {
+      "metadata": {},
+      "images": {
+        "stock_icon": "./stock-icons/neutral Ganondorf.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "blue"
+      },
+      "images": {
+        "stock_icon": "./stock-icons/blue Ganondorf.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "green"
+      },
+      "images": {
+        "stock_icon": "./stock-icons/green Ganondorf.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "purple"
+      },
+      "images": {
+        "stock_icon": "./stock-icons/purple Ganondorf.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "red"
+      },
+      "images": {
+        "stock_icon": "./stock-icons/red Ganondorf.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Ice Climbers",
+  "variants": [
+    {
+      "metadata": {},
+      "images": {
+        "stock_icon": "./stock-icons/neutral Ice Climbers.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "green"
+      },
+      "images": {
+        "stock_icon": "./stock-icons/green Ice Climbers.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "orange"
+      },
+      "images": {
+        "stock_icon": "./stock-icons/orange Ice Climbers.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "red"
+      },
+      "images": {
+        "stock_icon": "./stock-icons/red Ice Climbers.png"
+      }
+    }
+  ]
+}

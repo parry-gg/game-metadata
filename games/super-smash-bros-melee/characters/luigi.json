@@ -1,0 +1,35 @@
+{
+  "name": "Luigi",
+  "variants": [
+    {
+      "metadata": {},
+      "images": {
+        "stock_icon": "./stock-icons/neutral Luigi.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "blue"
+      },
+      "images": {
+        "stock_icon": "./stock-icons/blue Luigi.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "pink"
+      },
+      "images": {
+        "stock_icon": "./stock-icons/pink Luigi.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "white"
+      },
+      "images": {
+        "stock_icon": "./stock-icons/white Luigi.png"
+      }
+    }
+  ]
+}

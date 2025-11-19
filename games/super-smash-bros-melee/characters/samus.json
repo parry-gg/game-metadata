@@ -1,0 +1,43 @@
+{
+  "name": "Samus",
+  "variants": [
+    {
+      "metadata": {},
+      "images": {
+        "stock_icon": "./stock-icons/neutral Samus.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "blue"
+      },
+      "images": {
+        "stock_icon": "./stock-icons/blue Samus.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "brown"
+      },
+      "images": {
+        "stock_icon": "./stock-icons/brown Samus.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "green"
+      },
+      "images": {
+        "stock_icon": "./stock-icons/green Samus.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "red"
+      },
+      "images": {
+        "stock_icon": "./stock-icons/red Samus.png"
+      }
+    }
+  ]
+}

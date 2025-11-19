@@ -1,0 +1,43 @@
+{
+  "name": "Peach",
+  "variants": [
+    {
+      "metadata": {},
+      "images": {
+        "stock_icon": "./stock-icons/neutral Peach.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "blue"
+      },
+      "images": {
+        "stock_icon": "./stock-icons/blue Peach.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "daisy"
+      },
+      "images": {
+        "stock_icon": "./stock-icons/daisy Peach.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "green"
+      },
+      "images": {
+        "stock_icon": "./stock-icons/green Peach.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "white"
+      },
+      "images": {
+        "stock_icon": "./stock-icons/white Peach.png"
+      }
+    }
+  ]
+}

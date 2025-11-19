@@ -1,0 +1,43 @@
+{
+  "name": "Jigglypuff",
+  "variants": [
+    {
+      "metadata": {},
+      "images": {
+        "stock_icon": "./stock-icons/neutral Jigglypuff.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "bow"
+      },
+      "images": {
+        "stock_icon": "./stock-icons/bow Jigglypuff.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "crown"
+      },
+      "images": {
+        "stock_icon": "./stock-icons/crown Jigglypuff.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "flower"
+      },
+      "images": {
+        "stock_icon": "./stock-icons/flower Jigglypuff.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "headband"
+      },
+      "images": {
+        "stock_icon": "./stock-icons/headband Jigglypuff.png"
+      }
+    }
+  ]
+}

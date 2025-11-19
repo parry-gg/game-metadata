@@ -1,0 +1,43 @@
+{
+  "name": "Marth",
+  "variants": [
+    {
+      "metadata": {},
+      "images": {
+        "stock_icon": "./stock-icons/neutral Marth.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "black"
+      },
+      "images": {
+        "stock_icon": "./stock-icons/black Marth.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "green"
+      },
+      "images": {
+        "stock_icon": "./stock-icons/green Marth.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "red"
+      },
+      "images": {
+        "stock_icon": "./stock-icons/red Marth.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "white"
+      },
+      "images": {
+        "stock_icon": "./stock-icons/white Marth.png"
+      }
+    }
+  ]
+}

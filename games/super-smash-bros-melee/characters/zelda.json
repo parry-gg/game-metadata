@@ -1,0 +1,43 @@
+{
+  "name": "Zelda",
+  "variants": [
+    {
+      "metadata": {},
+      "images": {
+        "stock_icon": "./stock-icons/neutral Zelda.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "blue"
+      },
+      "images": {
+        "stock_icon": "./stock-icons/blue Zelda.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "green"
+      },
+      "images": {
+        "stock_icon": "./stock-icons/green Zelda.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "lavender"
+      },
+      "images": {
+        "stock_icon": "./stock-icons/lavender Zelda.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "red"
+      },
+      "images": {
+        "stock_icon": "./stock-icons/red Zelda.png"
+      }
+    }
+  ]
+}

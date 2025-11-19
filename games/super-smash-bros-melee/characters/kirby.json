@@ -1,0 +1,51 @@
+{
+  "name": "Kirby",
+  "variants": [
+    {
+      "metadata": {},
+      "images": {
+        "stock_icon": "./stock-icons/neutral Kirby.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "blue"
+      },
+      "images": {
+        "stock_icon": "./stock-icons/blue Kirby.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "green"
+      },
+      "images": {
+        "stock_icon": "./stock-icons/green Kirby.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "red"
+      },
+      "images": {
+        "stock_icon": "./stock-icons/red Kirby.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "white"
+      },
+      "images": {
+        "stock_icon": "./stock-icons/white Kirby.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "yellow"
+      },
+      "images": {
+        "stock_icon": "./stock-icons/yellow Kirby.png"
+      }
+    }
+  ]
+}

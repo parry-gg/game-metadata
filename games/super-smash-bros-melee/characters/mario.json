@@ -1,0 +1,43 @@
+{
+  "name": "Mario",
+  "variants": [
+    {
+      "metadata": {},
+      "images": {
+        "stock_icon": "./stock-icons/neutral Mario.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "blue"
+      },
+      "images": {
+        "stock_icon": "./stock-icons/blue Mario.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "brown"
+      },
+      "images": {
+        "stock_icon": "./stock-icons/brown Mario.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "green"
+      },
+      "images": {
+        "stock_icon": "./stock-icons/green Mario.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "yellow"
+      },
+      "images": {
+        "stock_icon": "./stock-icons/yellow Mario.png"
+      }
+    }
+  ]
+}

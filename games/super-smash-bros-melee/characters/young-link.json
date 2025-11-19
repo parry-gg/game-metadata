@@ -1,0 +1,43 @@
+{
+  "name": "Young Link",
+  "variants": [
+    {
+      "metadata": {},
+      "images": {
+        "stock_icon": "./stock-icons/neutral Young Link.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "black"
+      },
+      "images": {
+        "stock_icon": "./stock-icons/black Young Link.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "blue"
+      },
+      "images": {
+        "stock_icon": "./stock-icons/blue Young Link.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "red"
+      },
+      "images": {
+        "stock_icon": "./stock-icons/red Young Link.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "white"
+      },
+      "images": {
+        "stock_icon": "./stock-icons/white Young Link.png"
+      }
+    }
+  ]
+}

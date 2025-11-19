@@ -1,0 +1,51 @@
+{
+  "name": "Captain Falcon",
+  "variants": [
+    {
+      "metadata": {},
+      "images": {
+        "stock_icon": "./stock-icons/neutral Captain Falcon.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "black"
+      },
+      "images": {
+        "stock_icon": "./stock-icons/black Captain Falcon.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "blue"
+      },
+      "images": {
+        "stock_icon": "./stock-icons/blue Captain Falcon.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "green"
+      },
+      "images": {
+        "stock_icon": "./stock-icons/green Captain Falcon.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "red"
+      },
+      "images": {
+        "stock_icon": "./stock-icons/red Captain Falcon.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "white"
+      },
+      "images": {
+        "stock_icon": "./stock-icons/white Captain Falcon.png"
+      }
+    }
+  ]
+}

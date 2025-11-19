@@ -1,0 +1,35 @@
+{
+  "name": "Ness",
+  "variants": [
+    {
+      "metadata": {},
+      "images": {
+        "stock_icon": "./stock-icons/neutral Ness.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "blue"
+      },
+      "images": {
+        "stock_icon": "./stock-icons/blue Ness.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "green"
+      },
+      "images": {
+        "stock_icon": "./stock-icons/green Ness.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "yellow"
+      },
+      "images": {
+        "stock_icon": "./stock-icons/yellow Ness.png"
+      }
+    }
+  ]
+}
