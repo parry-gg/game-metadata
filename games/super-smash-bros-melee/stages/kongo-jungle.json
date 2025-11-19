@@ -1,6 +1,10 @@
 {
   "name": "Kongo Jungle",
-  "images": {
-    "thumbnail": "https://parrygg-dev.b-cdn.net/019a9e04-3271-7d81-925f-ab1c01113305.png"
-  }
+  "variants": [
+    {
+      "images": {
+        "thumbnail": "https://parrygg-dev.b-cdn.net/019a9e04-3271-7d81-925f-ab1c01113305.png"
+      }
+    }
+  ]
 }

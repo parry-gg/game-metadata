@@ -1,6 +1,10 @@
 {
   "name": "Corneria",
-  "images": {
-    "thumbnail": "https://parrygg-dev.b-cdn.net/019a9e04-1bb6-7cc7-b700-78e823d18bc8.jpg"
-  }
+  "variants": [
+    {
+      "images": {
+        "thumbnail": "https://parrygg-dev.b-cdn.net/019a9e04-1bb6-7cc7-b700-78e823d18bc8.jpg"
+      }
+    }
+  ]
 }

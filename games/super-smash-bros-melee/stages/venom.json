@@ -1,6 +1,10 @@
 {
   "name": "Venom",
-  "images": {
-    "thumbnail": "https://parrygg-dev.b-cdn.net/019a9e04-4837-7169-acdd-44d24a7d9dcb.png"
-  }
+  "variants": [
+    {
+      "images": {
+        "thumbnail": "https://parrygg-dev.b-cdn.net/019a9e04-4837-7169-acdd-44d24a7d9dcb.png"
+      }
+    }
+  ]
 }

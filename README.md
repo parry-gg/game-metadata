@@ -53,10 +53,8 @@ Each character gets a separate JSON file in `games/[game]/characters/[character]
   "name": "Mario",
   "variants": [
     {
-      "metadata": {},
       "images": {
-        "stock_icon": "./stock-icons/neutral-mario.png",
-        "portrait": "https://cdn.parry.gg/ssbu/mario/neutral-portrait.webp"
+        "stock_icon": "https://cdn.parry.gg/ssbu/mario/neutral-stock.webp"
       }
     },
     {
@@ -65,7 +63,7 @@ Each character gets a separate JSON file in `games/[game]/characters/[character]
         "outfit": "builder"
       },
       "images": {
-        "stock_icon": "./stock-icons/red-mario.png",
+        "stock_icon": "https://cdn.parry.gg/ssbu/mario/red-stock.webp",
         "portrait": "https://cdn.parry.gg/ssbu/mario/red-portrait.webp"
       }
     }
@@ -77,13 +75,13 @@ Each character gets a separate JSON file in `games/[game]/characters/[character]
 
 - **name** (string, required): Canonical character name
 - **variants** (array, required): Array of character variant objects
-  - **metadata** (object): Game-specific metadata for this variant
-    - Leave empty `{}` for the neutral/default variant
+  - **metadata** (object, optional): Game-specific metadata for this variant
+    - Omit entirely for the neutral/default variant (or use empty `{}`)
     - Can include: `color`, `outfit`, `unlock_condition`, etc.
-  - **images** (object): Image URLs for the variant
+  - **images** (object, required): Image URLs for the variant
     - **stock_icon** (string, optional): Small icon used in selection screens
     - **portrait** (string, optional): Large detailed character image
-    - Both can be local paths (`./stock-icons/...`) or CDN URLs (`https://...`)
+    - Both should use CDN URLs (`https://...`) in production
 
 ### Stage Schema
 
@@ -188,7 +186,7 @@ mkdir -p games/tekken-8/stock-icons
 ### Adding Characters
 
 1. Create `games/[game]/characters/[character-slug].json`
-2. Include at least one variant (the default with empty metadata)
+2. Include at least one variant (the default without metadata)
 3. Reference images either locally or via CDN URLs
 
 Example:
@@ -199,7 +197,6 @@ cat > games/tekken-8/characters/kazuya.json << 'EOF'
   "name": "Kazuya Mishima",
   "variants": [
     {
-      "metadata": {},
       "images": {
         "stock_icon": "./stock-icons/kazuya-neutral.png"
       }
@@ -245,7 +242,6 @@ games/[game]/stock-icons/
   "name": "Ryu",
   "variants": [
     {
-      "metadata": {},
       "images": {
         "stock_icon": "./stock-icons/ryu-neutral.png"
       }
@@ -271,7 +267,7 @@ Output:
 ```
 Processing character: ryu
   ⬆ Uploading: ryu-neutral.png
-  ✓ Uploaded to: https://cdn.parry.gg/...
+  ✓ Uploaded to: https://parrygg-dev.b-cdn.net/...
   [DRY RUN] Would update: ryu.json
 ```
 
@@ -288,9 +284,8 @@ Your JSON files now reference CDN URLs:
   "name": "Ryu",
   "variants": [
     {
-      "metadata": {},
       "images": {
-        "stock_icon": "https://cdn.parry.gg/street-fighter-6/ryu-neutral.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/abc123def456.png"
       }
     }
   ]

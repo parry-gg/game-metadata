@@ -1,6 +1,10 @@
 {
   "name": "Big Blue",
-  "images": {
-    "thumbnail": "https://parrygg-dev.b-cdn.net/019a9e04-12c4-7b39-8ea7-b1116188054c.png"
-  }
+  "variants": [
+    {
+      "images": {
+        "thumbnail": "https://parrygg-dev.b-cdn.net/019a9e04-12c4-7b39-8ea7-b1116188054c.png"
+      }
+    }
+  ]
 }

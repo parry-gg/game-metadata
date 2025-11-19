@@ -1,6 +1,10 @@
 {
   "name": "Onett",
-  "images": {
-    "thumbnail": "https://parrygg-dev.b-cdn.net/019a9e04-3cff-795c-9769-1a27f36dccaa.jpg"
-  }
+  "variants": [
+    {
+      "images": {
+        "thumbnail": "https://parrygg-dev.b-cdn.net/019a9e04-3cff-795c-9769-1a27f36dccaa.jpg"
+      }
+    }
+  ]
 }

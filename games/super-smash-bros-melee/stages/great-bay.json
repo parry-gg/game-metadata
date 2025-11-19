@@ -1,6 +1,10 @@
 {
   "name": "Great Bay",
-  "images": {
-    "thumbnail": "https://parrygg-dev.b-cdn.net/019a9e04-291e-79f3-aad1-33f0e4c7edfa.png"
-  }
+  "variants": [
+    {
+      "images": {
+        "thumbnail": "https://parrygg-dev.b-cdn.net/019a9e04-291e-79f3-aad1-33f0e4c7edfa.png"
+      }
+    }
+  ]
 }

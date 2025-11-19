@@ -2,7 +2,6 @@
   "name": "Pikachu",
   "variants": [
     {
-      "metadata": {},
       "images": {
         "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-e14b-7144-b70f-4ac711c41cf2.png"
       }

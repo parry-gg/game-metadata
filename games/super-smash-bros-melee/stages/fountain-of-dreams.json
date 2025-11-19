@@ -1,6 +1,10 @@
 {
   "name": "Fountain of Dreams",
-  "images": {
-    "thumbnail": "https://parrygg-dev.b-cdn.net/019a9e04-2399-77be-b743-2209a19d3aa3.png"
-  }
+  "variants": [
+    {
+      "images": {
+        "thumbnail": "https://parrygg-dev.b-cdn.net/019a9e04-2399-77be-b743-2209a19d3aa3.png"
+      }
+    }
+  ]
 }

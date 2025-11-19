@@ -1,6 +1,10 @@
 {
   "name": "Dream Land",
-  "images": {
-    "thumbnail": "https://parrygg-dev.b-cdn.net/019a9e04-1d58-7ab6-a336-dce24ddf20e1.png"
-  }
+  "variants": [
+    {
+      "images": {
+        "thumbnail": "https://parrygg-dev.b-cdn.net/019a9e04-1d58-7ab6-a336-dce24ddf20e1.png"
+      }
+    }
+  ]
 }

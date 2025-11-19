@@ -1,6 +1,10 @@
 {
   "name": "Rainbow Cruise",
-  "images": {
-    "thumbnail": "https://parrygg-dev.b-cdn.net/019a9e04-43fe-739c-a338-887a1dfb72c9.jpg"
-  }
+  "variants": [
+    {
+      "images": {
+        "thumbnail": "https://parrygg-dev.b-cdn.net/019a9e04-43fe-739c-a338-887a1dfb72c9.jpg"
+      }
+    }
+  ]
 }

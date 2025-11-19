@@ -2,7 +2,6 @@
   "name": "Bowser",
   "variants": [
     {
-      "metadata": {},
       "images": {
         "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e02-8157-74ae-be6f-ae8132a85d62.png"
       }
