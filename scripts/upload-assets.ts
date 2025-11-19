@@ -102,7 +102,12 @@ class AssetUploader {
       }
 
       const data = (await response.json()) as UploadResponse;
-      const cdnUrl = data.url;
+      const cdnUrl = data["imageUrl"];
+      if(!cdnUrl) {
+        throw new Error(
+          `Upload completed but could not find url`
+        );
+      }
       this.uploadedMap.set(filePath, cdnUrl);
       console.log(`  ✓ Uploaded to: ${cdnUrl}`);
       return cdnUrl;
