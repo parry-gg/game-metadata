@@ -4,7 +4,7 @@
     {
       "metadata": {},
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/neutral Marth.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-b914-7bcf-9da2-e0cedffd5f99.png"
       }
     },
     {
@@ -12,7 +12,7 @@
         "color": "black"
       },
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/black Marth.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-bab2-72d4-a216-099f9d53e600.png"
       }
     },
     {
@@ -20,7 +20,7 @@
         "color": "green"
       },
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/green Marth.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-bc1a-76e9-89b5-488aca4ab649.png"
       }
     },
     {
@@ -28,7 +28,7 @@
         "color": "red"
       },
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/red Marth.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-bd89-70cc-b793-12b2103717ee.png"
       }
     },
     {
@@ -36,7 +36,7 @@
         "color": "white"
       },
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/white Marth.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-bf89-7cbf-ad3a-2e495c47eaf5.png"
       }
     }
   ]

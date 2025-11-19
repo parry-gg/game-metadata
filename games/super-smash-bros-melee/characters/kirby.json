@@ -4,7 +4,7 @@
     {
       "metadata": {},
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/neutral Kirby.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-99b4-76d5-b234-f88aa9e8efb2.png"
       }
     },
     {
@@ -12,7 +12,7 @@
         "color": "blue"
       },
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/blue Kirby.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-9b71-7e74-9646-ba3e227338f8.png"
       }
     },
     {
@@ -20,7 +20,7 @@
         "color": "green"
       },
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/green Kirby.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-9d47-79c2-9024-e208b5cd3386.png"
       }
     },
     {
@@ -28,7 +28,7 @@
         "color": "red"
       },
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/red Kirby.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-9ebc-7658-9757-2806fe76310f.png"
       }
     },
     {
@@ -36,7 +36,7 @@
         "color": "white"
       },
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/white Kirby.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-a038-7051-9037-18525cf29d2c.png"
       }
     },
     {
@@ -44,7 +44,7 @@
         "color": "yellow"
       },
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/yellow Kirby.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-a1bd-786c-9094-731345ac77a9.png"
       }
     }
   ]

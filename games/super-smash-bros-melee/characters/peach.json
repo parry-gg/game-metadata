@@ -4,7 +4,7 @@
     {
       "metadata": {},
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/neutral Peach.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-d3b4-7576-aa45-fbe8134e6d3d.png"
       }
     },
     {
@@ -12,7 +12,7 @@
         "color": "blue"
       },
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/blue Peach.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-d51a-7f0b-b469-028886c5c0bb.png"
       }
     },
     {
@@ -20,7 +20,7 @@
         "color": "daisy"
       },
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/daisy Peach.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-d684-771a-94c9-f3482a8fa3b2.png"
       }
     },
     {
@@ -28,7 +28,7 @@
         "color": "green"
       },
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/green Peach.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-d840-7cec-b17c-2e7a441039e0.png"
       }
     },
     {
@@ -36,7 +36,7 @@
         "color": "white"
       },
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/white Peach.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-da3a-7ec7-81fa-2810a7319647.png"
       }
     }
   ]

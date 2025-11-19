@@ -4,7 +4,7 @@
     {
       "metadata": {},
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/neutral Captain Falcon.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-598b-7fbc-b7cb-5162914fb30d.png"
       }
     },
     {
@@ -12,7 +12,7 @@
         "color": "black"
       },
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/black Captain Falcon.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-5b52-7b08-b9e6-f580d7e3803e.png"
       }
     },
     {
@@ -20,7 +20,7 @@
         "color": "blue"
       },
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/blue Captain Falcon.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-5cc7-7e04-86e7-05257e8862f7.png"
       }
     },
     {
@@ -28,7 +28,7 @@
         "color": "green"
       },
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/green Captain Falcon.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-5e4c-7989-a257-974441cf8c1f.png"
       }
     },
     {
@@ -36,7 +36,7 @@
         "color": "red"
       },
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/red Captain Falcon.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-5ffe-77fb-868a-a6a9b9607ecb.png"
       }
     },
     {
@@ -44,7 +44,7 @@
         "color": "white"
       },
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/white Captain Falcon.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-61bd-74f7-99f3-408ff8858509.png"
       }
     }
   ]

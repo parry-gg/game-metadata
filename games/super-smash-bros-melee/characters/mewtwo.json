@@ -4,7 +4,7 @@
     {
       "metadata": {},
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/neutral Mewtwo.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-c160-78fe-8dd5-af4b9221b25a.png"
       }
     },
     {
@@ -12,7 +12,7 @@
         "color": "blue"
       },
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/blue Mewtwo.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-c2dd-7dca-b934-8b0124d12f6e.png"
       }
     },
     {
@@ -20,7 +20,7 @@
         "color": "green"
       },
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/green Mewtwo.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-c4cc-7ea2-8fb2-87f4f411532b.png"
       }
     },
     {
@@ -28,7 +28,7 @@
         "color": "red"
       },
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/red Mewtwo.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-c63f-71de-8ab1-466038380c3d.png"
       }
     }
   ]

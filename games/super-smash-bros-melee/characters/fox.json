@@ -4,7 +4,7 @@
     {
       "metadata": {},
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/neutral Fox.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-7850-70e5-8c2e-169b9f6f0869.png"
       }
     },
     {
@@ -12,7 +12,7 @@
         "color": "blue"
       },
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/blue Fox.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-7b41-7148-accc-86534b2d8cd2.png"
       }
     },
     {
@@ -20,7 +20,7 @@
         "color": "green"
       },
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/green Fox.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-7ca3-7e40-890f-4c7333188fa9.png"
       }
     },
     {
@@ -28,7 +28,7 @@
         "color": "red"
       },
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/red Fox.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-7e29-74b9-9f33-1569194b783d.png"
       }
     }
   ]

@@ -4,7 +4,7 @@
     {
       "metadata": {},
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/neutral Luigi.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-aaea-7bb8-87cd-37069a31e4d2.png"
       }
     },
     {
@@ -12,7 +12,7 @@
         "color": "blue"
       },
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/blue Luigi.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-ac4e-7071-9da6-46c3c56036ba.png"
       }
     },
     {
@@ -20,7 +20,7 @@
         "color": "pink"
       },
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/pink Luigi.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-ae04-7c02-8298-eaa4815a4e93.png"
       }
     },
     {
@@ -28,7 +28,7 @@
         "color": "white"
       },
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/white Luigi.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-af86-7697-ac0c-df6b63c0d7e6.png"
       }
     }
   ]

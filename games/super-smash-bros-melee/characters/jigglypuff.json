@@ -4,7 +4,7 @@
     {
       "metadata": {},
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/neutral Jigglypuff.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-91e3-7377-9e7c-f86b71aec3ea.png"
       }
     },
     {
@@ -12,7 +12,7 @@
         "color": "bow"
       },
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/bow Jigglypuff.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-9356-748a-959d-1a1c61d58947.png"
       }
     },
     {
@@ -20,7 +20,7 @@
         "color": "crown"
       },
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/crown Jigglypuff.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-9535-79db-8a3d-3e33c4f13be7.png"
       }
     },
     {
@@ -28,7 +28,7 @@
         "color": "flower"
       },
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/flower Jigglypuff.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-96d0-7692-ae8f-4f0ee98bc27c.png"
       }
     },
     {
@@ -36,7 +36,7 @@
         "color": "headband"
       },
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/headband Jigglypuff.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-9846-7e49-8d41-dd9c85d29af0.png"
       }
     }
   ]

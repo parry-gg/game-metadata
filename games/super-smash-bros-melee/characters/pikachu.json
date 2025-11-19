@@ -4,7 +4,7 @@
     {
       "metadata": {},
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/neutral Pikachu.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-e14b-7144-b70f-4ac711c41cf2.png"
       }
     },
     {
@@ -12,7 +12,7 @@
         "color": "blue"
       },
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/blue Pikachu.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-e2ff-714c-a638-7abdb78a3ae5.png"
       }
     },
     {
@@ -20,7 +20,7 @@
         "color": "green"
       },
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/green Pikachu.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-e470-7124-9131-45996ee5bc39.png"
       }
     },
     {
@@ -28,7 +28,7 @@
         "color": "red"
       },
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/red Pikachu.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-e5e1-720e-ac81-bff8216d6de0.png"
       }
     }
   ]

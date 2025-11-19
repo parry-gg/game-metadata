@@ -4,7 +4,7 @@
     {
       "metadata": {},
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/neutral Doctor Mario.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-6331-7c0d-a0fb-7f74debbc2d3.png"
       }
     },
     {
@@ -12,7 +12,7 @@
         "color": "black"
       },
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/black Doctor Mario.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-64df-781b-8124-f12cf1069c8a.png"
       }
     },
     {
@@ -20,7 +20,7 @@
         "color": "blue"
       },
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/blue Doctor Mario.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-664f-7e18-8bff-10d121c57441.png"
       }
     },
     {
@@ -28,7 +28,7 @@
         "color": "green"
       },
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/green Doctor Mario.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-67c3-7b4d-a5ab-a8cfd1b82261.png"
       }
     },
     {
@@ -36,7 +36,7 @@
         "color": "red"
       },
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/red Doctor Mario.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-6930-7906-98fc-5c006a46c590.png"
       }
     }
   ]

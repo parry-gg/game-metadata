@@ -4,7 +4,7 @@
     {
       "metadata": {},
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/neutral Donkey Kong.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-6abf-77e1-be30-5aea4560d7b6.png"
       }
     },
     {
@@ -12,7 +12,7 @@
         "color": "black"
       },
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/black Donkey Kong.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-6c2c-7612-a3e6-3ab1ee1a0552.png"
       }
     },
     {
@@ -20,7 +20,7 @@
         "color": "blue"
       },
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/blue Donkey Kong.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-6d90-7995-93b7-e4c1e7e325b1.png"
       }
     },
     {
@@ -28,7 +28,7 @@
         "color": "green"
       },
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/green Donkey Kong.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-6ef9-7e19-b6fa-def5107e3652.png"
       }
     },
     {
@@ -36,7 +36,7 @@
         "color": "red"
       },
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/red Donkey Kong.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-708e-7c3d-a18d-daa8efb01d4a.png"
       }
     }
   ]

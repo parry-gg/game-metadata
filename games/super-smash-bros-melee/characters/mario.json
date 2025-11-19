@@ -4,7 +4,7 @@
     {
       "metadata": {},
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/neutral Mario.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-b112-7a4f-91e5-d707bc04360a.png"
       }
     },
     {
@@ -12,7 +12,7 @@
         "color": "blue"
       },
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/blue Mario.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-b2b0-72c3-bfcb-37e86bdc9dfd.png"
       }
     },
     {
@@ -20,7 +20,7 @@
         "color": "brown"
       },
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/brown Mario.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-b41d-7036-abba-8d1e6b84b408.png"
       }
     },
     {
@@ -28,7 +28,7 @@
         "color": "green"
       },
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/green Mario.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-b586-7bc9-9f71-7b4d8b3c1c06.png"
       }
     },
     {
@@ -36,7 +36,7 @@
         "color": "yellow"
       },
       "images": {
-        "stock_icon": "games/super-smash-bros-melee/stock-icons/yellow Mario.png"
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-b77f-7e46-9cc5-66d52f74d119.png"
       }
     }
   ]
