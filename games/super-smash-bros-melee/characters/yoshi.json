@@ -4,7 +4,7 @@
     {
       "metadata": {},
       "images": {
-        "stock_icon": "./stock-icons/neutral Yoshi.png"
+        "stock_icon": "games/super-smash-bros-melee/stock-icons/neutral Yoshi.png"
       }
     },
     {
@@ -12,7 +12,7 @@
         "color": "blue"
       },
       "images": {
-        "stock_icon": "./stock-icons/blue Yoshi.png"
+        "stock_icon": "games/super-smash-bros-melee/stock-icons/blue Yoshi.png"
       }
     },
     {
@@ -20,7 +20,7 @@
         "color": "cyan"
       },
       "images": {
-        "stock_icon": "./stock-icons/cyan Yoshi.png"
+        "stock_icon": "games/super-smash-bros-melee/stock-icons/cyan Yoshi.png"
       }
     },
     {
@@ -28,7 +28,7 @@
         "color": "pink"
       },
       "images": {
-        "stock_icon": "./stock-icons/pink Yoshi.png"
+        "stock_icon": "games/super-smash-bros-melee/stock-icons/pink Yoshi.png"
       }
     },
     {
@@ -36,7 +36,7 @@
         "color": "red"
       },
       "images": {
-        "stock_icon": "./stock-icons/red Yoshi.png"
+        "stock_icon": "games/super-smash-bros-melee/stock-icons/red Yoshi.png"
       }
     },
     {
@@ -44,7 +44,7 @@
         "color": "yellow"
       },
       "images": {
-        "stock_icon": "./stock-icons/yellow Yoshi.png"
+        "stock_icon": "games/super-smash-bros-melee/stock-icons/yellow Yoshi.png"
       }
     }
   ]

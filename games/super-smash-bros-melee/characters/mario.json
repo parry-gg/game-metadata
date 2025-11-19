@@ -4,7 +4,7 @@
     {
       "metadata": {},
       "images": {
-        "stock_icon": "./stock-icons/neutral Mario.png"
+        "stock_icon": "games/super-smash-bros-melee/stock-icons/neutral Mario.png"
       }
     },
     {
@@ -12,7 +12,7 @@
         "color": "blue"
       },
       "images": {
-        "stock_icon": "./stock-icons/blue Mario.png"
+        "stock_icon": "games/super-smash-bros-melee/stock-icons/blue Mario.png"
       }
     },
     {
@@ -20,7 +20,7 @@
         "color": "brown"
       },
       "images": {
-        "stock_icon": "./stock-icons/brown Mario.png"
+        "stock_icon": "games/super-smash-bros-melee/stock-icons/brown Mario.png"
       }
     },
     {
@@ -28,7 +28,7 @@
         "color": "green"
       },
       "images": {
-        "stock_icon": "./stock-icons/green Mario.png"
+        "stock_icon": "games/super-smash-bros-melee/stock-icons/green Mario.png"
       }
     },
     {
@@ -36,7 +36,7 @@
         "color": "yellow"
       },
       "images": {
-        "stock_icon": "./stock-icons/yellow Mario.png"
+        "stock_icon": "games/super-smash-bros-melee/stock-icons/yellow Mario.png"
       }
     }
   ]

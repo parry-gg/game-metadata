@@ -4,7 +4,7 @@
     {
       "metadata": {},
       "images": {
-        "stock_icon": "./stock-icons/neutral Falco.png"
+        "stock_icon": "games/super-smash-bros-melee/stock-icons/neutral Falco.png"
       }
     },
     {
@@ -12,7 +12,7 @@
         "color": "blue"
       },
       "images": {
-        "stock_icon": "./stock-icons/blue Falco.png"
+        "stock_icon": "games/super-smash-bros-melee/stock-icons/blue Falco.png"
       }
     },
     {
@@ -20,7 +20,7 @@
         "color": "green"
       },
       "images": {
-        "stock_icon": "./stock-icons/green Falco.png"
+        "stock_icon": "games/super-smash-bros-melee/stock-icons/green Falco.png"
       }
     },
     {
@@ -28,7 +28,7 @@
         "color": "red"
       },
       "images": {
-        "stock_icon": "./stock-icons/red Falco.png"
+        "stock_icon": "games/super-smash-bros-melee/stock-icons/red Falco.png"
       }
     }
   ]

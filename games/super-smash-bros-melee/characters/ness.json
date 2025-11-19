@@ -4,7 +4,7 @@
     {
       "metadata": {},
       "images": {
-        "stock_icon": "./stock-icons/neutral Ness.png"
+        "stock_icon": "games/super-smash-bros-melee/stock-icons/neutral Ness.png"
       }
     },
     {
@@ -12,7 +12,7 @@
         "color": "blue"
       },
       "images": {
-        "stock_icon": "./stock-icons/blue Ness.png"
+        "stock_icon": "games/super-smash-bros-melee/stock-icons/blue Ness.png"
       }
     },
     {
@@ -20,7 +20,7 @@
         "color": "green"
       },
       "images": {
-        "stock_icon": "./stock-icons/green Ness.png"
+        "stock_icon": "games/super-smash-bros-melee/stock-icons/green Ness.png"
       }
     },
     {
@@ -28,7 +28,7 @@
         "color": "yellow"
       },
       "images": {
-        "stock_icon": "./stock-icons/yellow Ness.png"
+        "stock_icon": "games/super-smash-bros-melee/stock-icons/yellow Ness.png"
       }
     }
   ]

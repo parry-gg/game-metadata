@@ -4,7 +4,7 @@
     {
       "metadata": {},
       "images": {
-        "stock_icon": "./stock-icons/neutral Samus.png"
+        "stock_icon": "games/super-smash-bros-melee/stock-icons/neutral Samus.png"
       }
     },
     {
@@ -12,7 +12,7 @@
         "color": "blue"
       },
       "images": {
-        "stock_icon": "./stock-icons/blue Samus.png"
+        "stock_icon": "games/super-smash-bros-melee/stock-icons/blue Samus.png"
       }
     },
     {
@@ -20,7 +20,7 @@
         "color": "brown"
       },
       "images": {
-        "stock_icon": "./stock-icons/brown Samus.png"
+        "stock_icon": "games/super-smash-bros-melee/stock-icons/brown Samus.png"
       }
     },
     {
@@ -28,7 +28,7 @@
         "color": "green"
       },
       "images": {
-        "stock_icon": "./stock-icons/green Samus.png"
+        "stock_icon": "games/super-smash-bros-melee/stock-icons/green Samus.png"
       }
     },
     {
@@ -36,7 +36,7 @@
         "color": "red"
       },
       "images": {
-        "stock_icon": "./stock-icons/red Samus.png"
+        "stock_icon": "games/super-smash-bros-melee/stock-icons/red Samus.png"
       }
     }
   ]

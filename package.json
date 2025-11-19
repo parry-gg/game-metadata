@@ -1,0 +1,17 @@
+{
+  "name": "game-metadata",
+  "version": "1.0.0",
+  "description": "Game metadata and asset management for Parry.gg",
+  "type": "commonjs",
+  "scripts": {
+    "upload": "ts-node scripts/upload-assets.ts",
+    "upload:dry-run": "ts-node scripts/upload-assets.ts --dry-run",
+    "upload:game": "ts-node scripts/upload-assets.ts --game"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0",
+    "ts-node": "^10.9.0"
+  }
+}

@@ -4,7 +4,7 @@
     {
       "metadata": {},
       "images": {
-        "stock_icon": "./stock-icons/neutral Kirby.png"
+        "stock_icon": "games/super-smash-bros-melee/stock-icons/neutral Kirby.png"
       }
     },
     {
@@ -12,7 +12,7 @@
         "color": "blue"
       },
       "images": {
-        "stock_icon": "./stock-icons/blue Kirby.png"
+        "stock_icon": "games/super-smash-bros-melee/stock-icons/blue Kirby.png"
       }
     },
     {
@@ -20,7 +20,7 @@
         "color": "green"
       },
       "images": {
-        "stock_icon": "./stock-icons/green Kirby.png"
+        "stock_icon": "games/super-smash-bros-melee/stock-icons/green Kirby.png"
       }
     },
     {
@@ -28,7 +28,7 @@
         "color": "red"
       },
       "images": {
-        "stock_icon": "./stock-icons/red Kirby.png"
+        "stock_icon": "games/super-smash-bros-melee/stock-icons/red Kirby.png"
       }
     },
     {
@@ -36,7 +36,7 @@
         "color": "white"
       },
       "images": {
-        "stock_icon": "./stock-icons/white Kirby.png"
+        "stock_icon": "games/super-smash-bros-melee/stock-icons/white Kirby.png"
       }
     },
     {
@@ -44,7 +44,7 @@
         "color": "yellow"
       },
       "images": {
-        "stock_icon": "./stock-icons/yellow Kirby.png"
+        "stock_icon": "games/super-smash-bros-melee/stock-icons/yellow Kirby.png"
       }
     }
   ]

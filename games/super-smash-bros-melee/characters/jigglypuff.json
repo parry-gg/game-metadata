@@ -4,7 +4,7 @@
     {
       "metadata": {},
       "images": {
-        "stock_icon": "./stock-icons/neutral Jigglypuff.png"
+        "stock_icon": "games/super-smash-bros-melee/stock-icons/neutral Jigglypuff.png"
       }
     },
     {
@@ -12,7 +12,7 @@
         "color": "bow"
       },
       "images": {
-        "stock_icon": "./stock-icons/bow Jigglypuff.png"
+        "stock_icon": "games/super-smash-bros-melee/stock-icons/bow Jigglypuff.png"
       }
     },
     {
@@ -20,7 +20,7 @@
         "color": "crown"
       },
       "images": {
-        "stock_icon": "./stock-icons/crown Jigglypuff.png"
+        "stock_icon": "games/super-smash-bros-melee/stock-icons/crown Jigglypuff.png"
       }
     },
     {
@@ -28,7 +28,7 @@
         "color": "flower"
       },
       "images": {
-        "stock_icon": "./stock-icons/flower Jigglypuff.png"
+        "stock_icon": "games/super-smash-bros-melee/stock-icons/flower Jigglypuff.png"
       }
     },
     {
@@ -36,7 +36,7 @@
         "color": "headband"
       },
       "images": {
-        "stock_icon": "./stock-icons/headband Jigglypuff.png"
+        "stock_icon": "games/super-smash-bros-melee/stock-icons/headband Jigglypuff.png"
       }
     }
   ]

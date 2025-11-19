@@ -4,7 +4,7 @@
     {
       "metadata": {},
       "images": {
-        "stock_icon": "./stock-icons/neutral Fox.png"
+        "stock_icon": "games/super-smash-bros-melee/stock-icons/neutral Fox.png"
       }
     },
     {
@@ -12,7 +12,7 @@
         "color": "blue"
       },
       "images": {
-        "stock_icon": "./stock-icons/blue Fox.png"
+        "stock_icon": "games/super-smash-bros-melee/stock-icons/blue Fox.png"
       }
     },
     {
@@ -20,7 +20,7 @@
         "color": "green"
       },
       "images": {
-        "stock_icon": "./stock-icons/green Fox.png"
+        "stock_icon": "games/super-smash-bros-melee/stock-icons/green Fox.png"
       }
     },
     {
@@ -28,7 +28,7 @@
         "color": "red"
       },
       "images": {
-        "stock_icon": "./stock-icons/red Fox.png"
+        "stock_icon": "games/super-smash-bros-melee/stock-icons/red Fox.png"
       }
     }
   ]

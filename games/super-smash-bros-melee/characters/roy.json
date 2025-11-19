@@ -4,7 +4,7 @@
     {
       "metadata": {},
       "images": {
-        "stock_icon": "./stock-icons/neutral Roy.png"
+        "stock_icon": "games/super-smash-bros-melee/stock-icons/neutral Roy.png"
       }
     },
     {
@@ -12,7 +12,7 @@
         "color": "blue"
       },
       "images": {
-        "stock_icon": "./stock-icons/blue Roy.png"
+        "stock_icon": "games/super-smash-bros-melee/stock-icons/blue Roy.png"
       }
     },
     {
@@ -20,7 +20,7 @@
         "color": "green"
       },
       "images": {
-        "stock_icon": "./stock-icons/green Roy.png"
+        "stock_icon": "games/super-smash-bros-melee/stock-icons/green Roy.png"
       }
     },
     {
@@ -28,7 +28,7 @@
         "color": "red"
       },
       "images": {
-        "stock_icon": "./stock-icons/red Roy.png"
+        "stock_icon": "games/super-smash-bros-melee/stock-icons/red Roy.png"
       }
     },
     {
@@ -36,7 +36,7 @@
         "color": "yellow"
       },
       "images": {
-        "stock_icon": "./stock-icons/yellow Roy.png"
+        "stock_icon": "games/super-smash-bros-melee/stock-icons/yellow Roy.png"
       }
     }
   ]

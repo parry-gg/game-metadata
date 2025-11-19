@@ -4,7 +4,7 @@
     {
       "metadata": {},
       "images": {
-        "stock_icon": "./stock-icons/neutral Link.png"
+        "stock_icon": "games/super-smash-bros-melee/stock-icons/neutral Link.png"
       }
     },
     {
@@ -12,7 +12,7 @@
         "color": "black"
       },
       "images": {
-        "stock_icon": "./stock-icons/black Link.png"
+        "stock_icon": "games/super-smash-bros-melee/stock-icons/black Link.png"
       }
     },
     {
@@ -20,7 +20,7 @@
         "color": "blue"
       },
       "images": {
-        "stock_icon": "./stock-icons/blue Link.png"
+        "stock_icon": "games/super-smash-bros-melee/stock-icons/blue Link.png"
       }
     },
     {
@@ -28,7 +28,7 @@
         "color": "red"
       },
       "images": {
-        "stock_icon": "./stock-icons/red Link.png"
+        "stock_icon": "games/super-smash-bros-melee/stock-icons/red Link.png"
       }
     },
     {
@@ -36,7 +36,7 @@
         "color": "white"
       },
       "images": {
-        "stock_icon": "./stock-icons/white Link.png"
+        "stock_icon": "games/super-smash-bros-melee/stock-icons/white Link.png"
       }
     }
   ]

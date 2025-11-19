@@ -4,7 +4,7 @@
     {
       "metadata": {},
       "images": {
-        "stock_icon": "./stock-icons/neutral Marth.png"
+        "stock_icon": "games/super-smash-bros-melee/stock-icons/neutral Marth.png"
       }
     },
     {
@@ -12,7 +12,7 @@
         "color": "black"
       },
       "images": {
-        "stock_icon": "./stock-icons/black Marth.png"
+        "stock_icon": "games/super-smash-bros-melee/stock-icons/black Marth.png"
       }
     },
     {
@@ -20,7 +20,7 @@
         "color": "green"
       },
       "images": {
-        "stock_icon": "./stock-icons/green Marth.png"
+        "stock_icon": "games/super-smash-bros-melee/stock-icons/green Marth.png"
       }
     },
     {
@@ -28,7 +28,7 @@
         "color": "red"
       },
       "images": {
-        "stock_icon": "./stock-icons/red Marth.png"
+        "stock_icon": "games/super-smash-bros-melee/stock-icons/red Marth.png"
       }
     },
     {
@@ -36,7 +36,7 @@
         "color": "white"
       },
       "images": {
-        "stock_icon": "./stock-icons/white Marth.png"
+        "stock_icon": "games/super-smash-bros-melee/stock-icons/white Marth.png"
       }
     }
   ]
