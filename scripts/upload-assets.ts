@@ -19,7 +19,7 @@ import * as path from "path";
  */
 
 interface UploadResponse {
-  imageUrl: string;
+  image_url: string;
 }
 
 interface CharacterVariant {
@@ -91,7 +91,7 @@ class AssetUploader {
           "Content-Type": "application/octet-stream",
           "Accept": "application/json",
         },
-        body: new Uint8Array(fileBuffer),
+        body: new Blob([fileBuffer]),
       });
 
       if (!response.ok) {
@@ -101,10 +101,10 @@ class AssetUploader {
       }
 
       const data = (await response.json()) as UploadResponse;
-      const cdnUrl = data.imageUrl;
+      const cdnUrl = data.image_url;
       if(!cdnUrl) {
         throw new Error(
-          `Upload completed but could not find url`
+          `Upload completed but could not find url. Response: ${JSON.stringify(data)}`
         );
       }
       this.uploadedMap.set(filePath, cdnUrl);

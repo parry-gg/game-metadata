@@ -1,0 +1,42 @@
+{
+  "name": "Sheik",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019ad327-8670-7656-972d-5c494fc4f632.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "white"
+      },
+      "images": {
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019ad327-8cae-75c1-9915-7946fbf5431f.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "red"
+      },
+      "images": {
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019ad327-94c5-79b2-b97b-a26b0bc5b41b.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "green"
+      },
+      "images": {
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019ad327-9c22-793c-8985-8c7577d432c7.png"
+      }
+    },
+    {
+      "metadata": {
+        "color": "blue"
+      },
+      "images": {
+        "stock_icon": "https://parrygg-dev.b-cdn.net/019ad327-a296-7b0a-9d90-acb7db121458.png"
+      }
+    }
+  ]
+}
