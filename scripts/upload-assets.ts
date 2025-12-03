@@ -23,7 +23,7 @@ interface UploadResponse {
 }
 
 interface CharacterVariant {
-  metadata: Record<string, string | undefined>;
+  metadata?: Record<string, string>;
   images: {
     stock_icon?: string;
     portrait?: string;
@@ -35,12 +35,16 @@ interface CharacterData {
   variants: CharacterVariant[];
 }
 
-interface StageData {
-  name: string;
-  metadata?: Record<string, unknown>;
+interface StageVariant {
+  metadata?: Record<string, string>;
   images: {
     thumbnail?: string;
   };
+}
+
+interface StageData {
+  name: string;
+  variants: StageVariant[];
 }
 
 const DEFAULT_API_BASE_URL = "https://api.parry.gg";
@@ -164,17 +168,19 @@ class AssetUploader {
 
     let modified = false;
 
-    // Process all image URLs in the images object
-    for (const [imageKey, imageUrl] of Object.entries(stage.images)) {
-      if (imageUrl && this.isLocalPath(imageUrl)) {
-        // Resolve paths relative to the project root (where script is run from)
-        const fullPath = path.resolve(process.cwd(), imageUrl);
-        if (fs.existsSync(fullPath)) {
-          const cdnUrl = await this.uploadFile(fullPath);
-          (stage.images as Record<string, string>)[imageKey] = cdnUrl;
-          modified = true;
-        } else {
-          console.warn(`  ⚠ File not found: ${fullPath}`);
+    for (const variant of stage.variants) {
+      // Process all image URLs in the images object
+      for (const [imageKey, imageUrl] of Object.entries(variant.images)) {
+        if (imageUrl && this.isLocalPath(imageUrl)) {
+          // Resolve paths relative to the project root (where script is run from)
+          const fullPath = path.resolve(process.cwd(), imageUrl);
+          if (fs.existsSync(fullPath)) {
+            const cdnUrl = await this.uploadFile(fullPath);
+            (variant.images as Record<string, string>)[imageKey] = cdnUrl;
+            modified = true;
+          } else {
+            console.warn(`  ⚠ File not found: ${fullPath}`);
+          }
         }
       }
     }

@@ -3,39 +3,39 @@
   "variants": [
     {
       "images": {
-        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-91e3-7377-9e7c-f86b71aec3ea.png"
+        "stock_icon": "https://parrygg.b-cdn.net/019ae333-d386-7b1d-9a78-0d18be4d06b3.png"
       }
     },
     {
       "metadata": {
-        "color": "bow"
+        "color": "red"
       },
       "images": {
-        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-9356-748a-959d-1a1c61d58947.png"
+        "stock_icon": "https://parrygg.b-cdn.net/019ae333-d574-7d90-b9ce-12084676c972.png"
       }
     },
     {
       "metadata": {
-        "color": "crown"
+        "color": "blue"
       },
       "images": {
-        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-9535-79db-8a3d-3e33c4f13be7.png"
+        "stock_icon": "https://parrygg.b-cdn.net/019ae333-d811-7f50-9d99-fca0191901ef.png"
       }
     },
     {
       "metadata": {
-        "color": "flower"
+        "color": "gold"
       },
       "images": {
-        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-96d0-7692-ae8f-4f0ee98bc27c.png"
+        "stock_icon": "https://parrygg.b-cdn.net/019ae333-d9ea-791f-bd86-90c5b4312b37.png"
       }
     },
     {
       "metadata": {
-        "color": "headband"
+        "color": "green"
       },
       "images": {
-        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-9846-7e49-8d41-dd9c85d29af0.png"
+        "stock_icon": "https://parrygg.b-cdn.net/019ae333-dc0d-72b2-b10b-de8189ebfada.png"
       }
     }
   ]

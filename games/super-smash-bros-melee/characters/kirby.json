@@ -3,7 +3,7 @@
   "variants": [
     {
       "images": {
-        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-99b4-76d5-b234-f88aa9e8efb2.png"
+        "stock_icon": "https://parrygg.b-cdn.net/019ae333-de18-7138-b286-199d22ffd758.png"
       }
     },
     {
@@ -11,7 +11,7 @@
         "color": "blue"
       },
       "images": {
-        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-9b71-7e74-9646-ba3e227338f8.png"
+        "stock_icon": "https://parrygg.b-cdn.net/019ae333-e058-7e06-8bf7-b8a01db3cc16.png"
       }
     },
     {
@@ -19,7 +19,7 @@
         "color": "green"
       },
       "images": {
-        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-9d47-79c2-9024-e208b5cd3386.png"
+        "stock_icon": "https://parrygg.b-cdn.net/019ae333-e267-72e3-8ad9-50e512450c39.png"
       }
     },
     {
@@ -27,7 +27,7 @@
         "color": "red"
       },
       "images": {
-        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-9ebc-7658-9757-2806fe76310f.png"
+        "stock_icon": "https://parrygg.b-cdn.net/019ae333-e457-72f5-a7ee-10bbb9571b0b.png"
       }
     },
     {
@@ -35,7 +35,7 @@
         "color": "white"
       },
       "images": {
-        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-a038-7051-9037-18525cf29d2c.png"
+        "stock_icon": "https://parrygg.b-cdn.net/019ae333-e6d5-7072-b42f-284552303c10.png"
       }
     },
     {
@@ -43,7 +43,7 @@
         "color": "yellow"
       },
       "images": {
-        "stock_icon": "https://parrygg-dev.b-cdn.net/019a9e03-a1bd-786c-9094-731345ac77a9.png"
+        "stock_icon": "https://parrygg.b-cdn.net/019ae333-e935-772b-a548-ffe43c14bfd4.png"
       }
     }
   ]
