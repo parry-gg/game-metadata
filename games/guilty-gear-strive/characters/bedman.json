@@ -1,0 +1,10 @@
+{
+  "name": "Bedman",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae7db-f3b0-7e7f-98aa-5363cbee7ce7.png"
+      }
+    }
+  ]
+}
