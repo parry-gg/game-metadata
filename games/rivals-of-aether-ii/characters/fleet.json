@@ -1,0 +1,10 @@
+{
+  "name": "Fleet",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae782-00e3-721f-a027-393f930b3c34.png"
+      }
+    }
+  ]
+}
