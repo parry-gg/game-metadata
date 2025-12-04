@@ -7,11 +7,17 @@
       }
     },
     {
+      "metadata": {
+        "variant": 1
+      },
       "images": {
         "icon": "https://parrygg.b-cdn.net/019ae79a-fc4a-72a4-90fd-ee43b863238c.png"
       }
     },
     {
+      "metadata": {
+        "variant": 2
+      },
       "images": {
         "icon": "https://parrygg.b-cdn.net/019ae79b-007c-7e10-bba0-ca5645806532.png"
       }
