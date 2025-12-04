@@ -1,0 +1,26 @@
+{
+  "name": "Kimberly",
+  "variants": [
+    {
+      "images": {
+        "icon": "https://parrygg.b-cdn.net/019ae79b-b788-717b-910f-ed78feb6071a.png"
+      }
+    },
+    {
+      "metadata": {
+        "variant": 1
+      },
+      "images": {
+        "icon": "https://parrygg.b-cdn.net/019ae79b-ba40-7545-99e0-4d80ad797bfa.png"
+      }
+    },
+    {
+      "metadata": {
+        "variant": 2
+      },
+      "images": {
+        "icon": "https://parrygg.b-cdn.net/019ae79b-bcb8-7ce3-84c4-b2ad9eb0d7ff.png"
+      }
+    }
+  ]
+}

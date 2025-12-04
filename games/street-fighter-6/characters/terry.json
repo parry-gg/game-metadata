@@ -1,0 +1,26 @@
+{
+  "name": "Terry",
+  "variants": [
+    {
+      "images": {
+        "icon": "https://parrygg.b-cdn.net/019ae79c-0220-7f95-a3c5-6ffad66a86ee.png"
+      }
+    },
+    {
+      "metadata": {
+        "variant": 1
+      },
+      "images": {
+        "icon": "https://parrygg.b-cdn.net/019ae79c-04a5-758d-96c2-d904fe4ca91c.png"
+      }
+    },
+    {
+      "metadata": {
+        "variant": 2
+      },
+      "images": {
+        "icon": "https://parrygg.b-cdn.net/019ae79c-06f1-7e5d-af74-044514a906f5.png"
+      }
+    }
+  ]
+}

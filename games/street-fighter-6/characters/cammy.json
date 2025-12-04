@@ -1,0 +1,26 @@
+{
+  "name": "Cammy",
+  "variants": [
+    {
+      "images": {
+        "icon": "https://parrygg.b-cdn.net/019ae79a-c1fd-75be-a7e5-a71008c45006.png"
+      }
+    },
+    {
+      "metadata": {
+        "variant": 1
+      },
+      "images": {
+        "icon": "https://parrygg.b-cdn.net/019ae79a-c464-7ada-931c-6d78f77beb6d.png"
+      }
+    },
+    {
+      "metadata": {
+        "variant": 2
+      },
+      "images": {
+        "icon": "https://parrygg.b-cdn.net/019ae79a-c70d-762b-b9a8-f190e0472f95.png"
+      }
+    }
+  ]
+}

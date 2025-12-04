@@ -1,0 +1,26 @@
+{
+  "name": "Ed",
+  "variants": [
+    {
+      "images": {
+        "icon": "https://parrygg.b-cdn.net/019ae79a-dfbc-74fc-944a-67e8dd081231.png"
+      }
+    },
+    {
+      "metadata": {
+        "variant": 1
+      },
+      "images": {
+        "icon": "https://parrygg.b-cdn.net/019ae79a-e1f9-73ea-914f-660e81523f15.png"
+      }
+    },
+    {
+      "metadata": {
+        "variant": 2
+      },
+      "images": {
+        "icon": "https://parrygg.b-cdn.net/019ae79a-e43b-79cc-8cee-1f429d665096.png"
+      }
+    }
+  ]
+}

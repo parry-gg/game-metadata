@@ -1,0 +1,34 @@
+{
+  "name": "Juri",
+  "variants": [
+    {
+      "images": {
+        "icon": "https://parrygg.b-cdn.net/019ae79b-a0fd-7720-96ba-112a9af9691d.png"
+      }
+    },
+    {
+      "metadata": {
+        "variant": 1
+      },
+      "images": {
+        "icon": "https://parrygg.b-cdn.net/019ae79b-a606-755a-8d07-a02624476699.png"
+      }
+    },
+    {
+      "metadata": {
+        "variant": 2
+      },
+      "images": {
+        "icon": "https://parrygg.b-cdn.net/019ae79b-a92a-7de5-a78b-58732794eaef.png"
+      }
+    },
+    {
+      "metadata": {
+        "variant": 3
+      },
+      "images": {
+        "icon": "https://parrygg.b-cdn.net/019ae79b-aba1-7b2d-852d-c843e8565002.png"
+      }
+    }
+  ]
+}

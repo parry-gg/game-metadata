@@ -1,0 +1,26 @@
+{
+  "name": "Ryu",
+  "variants": [
+    {
+      "images": {
+        "icon": "https://parrygg.b-cdn.net/019ae79b-f552-7d1e-b26a-159b96b96a39.png"
+      }
+    },
+    {
+      "metadata": {
+        "variant": 1
+      },
+      "images": {
+        "icon": "https://parrygg.b-cdn.net/019ae79b-f7bd-7674-a0b7-14fdbb9897e1.png"
+      }
+    },
+    {
+      "metadata": {
+        "variant": 2
+      },
+      "images": {
+        "icon": "https://parrygg.b-cdn.net/019ae79b-fa02-76a4-8ffa-41c4845998b6.png"
+      }
+    }
+  ]
+}

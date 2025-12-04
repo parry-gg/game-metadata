@@ -1,0 +1,26 @@
+{
+  "name": "Akuma",
+  "variants": [
+    {
+      "images": {
+        "icon": "https://parrygg.b-cdn.net/019ae79a-a83e-7b3f-892c-6c5d314af970.png"
+      }
+    },
+    {
+      "metadata": {
+        "variant": 1
+      },
+      "images": {
+        "icon": "https://parrygg.b-cdn.net/019ae79a-ab77-7aa1-a529-b4e5962d377f.png"
+      }
+    },
+    {
+      "metadata": {
+        "variant": 2
+      },
+      "images": {
+        "icon": "https://parrygg.b-cdn.net/019ae79a-ae28-7e5a-acf7-78348fdd3c59.png"
+      }
+    }
+  ]
+}

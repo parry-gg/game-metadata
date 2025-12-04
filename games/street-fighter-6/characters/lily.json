@@ -1,0 +1,26 @@
+{
+  "name": "Lily",
+  "variants": [
+    {
+      "images": {
+        "icon": "https://parrygg.b-cdn.net/019ae79b-bfd1-7dad-98b9-e12bad960b45.png"
+      }
+    },
+    {
+      "metadata": {
+        "variant": 1
+      },
+      "images": {
+        "icon": "https://parrygg.b-cdn.net/019ae79b-c505-7fe8-9d4c-1388c518cba2.png"
+      }
+    },
+    {
+      "metadata": {
+        "variant": 2
+      },
+      "images": {
+        "icon": "https://parrygg.b-cdn.net/019ae79b-c825-711f-9564-3e5464222555.png"
+      }
+    }
+  ]
+}

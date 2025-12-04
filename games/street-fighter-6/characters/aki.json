@@ -1,0 +1,26 @@
+{
+  "name": "A.K.I.",
+  "variants": [
+    {
+      "images": {
+        "icon": "https://parrygg.b-cdn.net/019ae79a-9a2d-7735-abd3-b36e837e8fc0.png"
+      }
+    },
+    {
+      "metadata": {
+        "variant": 1
+      },
+      "images": {
+        "icon": "https://parrygg.b-cdn.net/019ae79a-a1f8-75f3-8d20-6af6327312f5.png"
+      }
+    },
+    {
+      "metadata": {
+        "variant": 2
+      },
+      "images": {
+        "icon": "https://parrygg.b-cdn.net/019ae79a-a505-7b33-a920-68d71463d4ec.png"
+      }
+    }
+  ]
+}
