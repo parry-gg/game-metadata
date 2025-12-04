@@ -1,0 +1,20 @@
+{
+  "name": "Manon",
+  "variants": [
+    {
+      "images": {
+        "icon": "https://parrygg.b-cdn.net/019ae79b-da01-73ee-b959-55b2cb55a8fd.png"
+      }
+    },
+    {
+      "images": {
+        "icon": "https://parrygg.b-cdn.net/019ae79b-deb0-7acd-bf02-f29584a32093.png"
+      }
+    },
+    {
+      "images": {
+        "icon": "https://parrygg.b-cdn.net/019ae79b-e184-76c3-8f8c-4554ac6213b2.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Zangief",
+  "variants": [
+    {
+      "images": {
+        "icon": "https://parrygg.b-cdn.net/019ae79c-0e15-73ef-a159-227c7e7a12e9.png"
+      }
+    },
+    {
+      "images": {
+        "icon": "https://parrygg.b-cdn.net/019ae79c-10ec-7d75-b2e9-613410d01563.png"
+      }
+    },
+    {
+      "images": {
+        "icon": "https://parrygg.b-cdn.net/019ae79c-1409-74a1-bf11-cb0401eedf15.png"
+      }
+    }
+  ]
+}

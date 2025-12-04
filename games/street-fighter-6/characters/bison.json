@@ -1,0 +1,20 @@
+{
+  "name": "Bison",
+  "variants": [
+    {
+      "images": {
+        "icon": "https://parrygg.b-cdn.net/019ae79a-b08f-7ef8-a973-e58fafde234f.png"
+      }
+    },
+    {
+      "images": {
+        "icon": "https://parrygg.b-cdn.net/019ae79a-b2b0-71e8-afb7-5863ff0f5688.png"
+      }
+    },
+    {
+      "images": {
+        "icon": "https://parrygg.b-cdn.net/019ae79a-b50b-7492-b4d9-bbf79d454dc4.png"
+      }
+    }
+  ]
+}

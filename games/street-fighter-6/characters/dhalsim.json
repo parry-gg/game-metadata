@@ -1,0 +1,20 @@
+{
+  "name": "Dhalsim",
+  "variants": [
+    {
+      "images": {
+        "icon": "https://parrygg.b-cdn.net/019ae79a-d7fe-77b1-b6b6-9f95fd176d9f.png"
+      }
+    },
+    {
+      "images": {
+        "icon": "https://parrygg.b-cdn.net/019ae79a-db03-76ad-a5f5-5ce8278d3466.png"
+      }
+    },
+    {
+      "images": {
+        "icon": "https://parrygg.b-cdn.net/019ae79a-dd6f-72a3-bf5e-a8641076d45a.png"
+      }
+    }
+  ]
+}

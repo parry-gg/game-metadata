@@ -1,0 +1,20 @@
+{
+  "name": "Ken",
+  "variants": [
+    {
+      "images": {
+        "icon": "https://parrygg.b-cdn.net/019ae79b-aed9-7ab6-a669-ca7107af0dcd.png"
+      }
+    },
+    {
+      "images": {
+        "icon": "https://parrygg.b-cdn.net/019ae79b-b1e6-7995-bd07-304783b00b17.png"
+      }
+    },
+    {
+      "images": {
+        "icon": "https://parrygg.b-cdn.net/019ae79b-b51d-7f1a-81e4-a38317498c0f.png"
+      }
+    }
+  ]
+}

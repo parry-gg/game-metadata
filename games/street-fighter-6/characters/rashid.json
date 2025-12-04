@@ -1,0 +1,20 @@
+{
+  "name": "Rashid",
+  "variants": [
+    {
+      "images": {
+        "icon": "https://parrygg.b-cdn.net/019ae79b-ebfe-7f84-bb78-4a1263dcfe48.png"
+      }
+    },
+    {
+      "images": {
+        "icon": "https://parrygg.b-cdn.net/019ae79b-f06c-7626-9f49-f790fdcb196c.png"
+      }
+    },
+    {
+      "images": {
+        "icon": "https://parrygg.b-cdn.net/019ae79b-f2bb-72e6-ba1a-5e034aac4111.png"
+      }
+    }
+  ]
+}
