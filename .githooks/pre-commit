@@ -1,0 +1,38 @@
+#!/bin/sh
+
+# Get list of added/modified files (not deleted) in the index
+files=$(git diff --cached --name-only --diff-filter=ACM)
+
+for f in $files
+do
+  # Skip if file doesn't exist (e.g., deleted or renamed away)
+  [ -f "$f" ] || continue
+
+  # Check if file is a text file using `file --mime`
+  mimetype=$(file --mime-type -b "$f")
+  case "$mimetype" in
+    text/*)
+      # Ensure file ends in newline
+      if [ "$(tail -c1 "$f")" != "" ]; then
+        echo >> "$f"
+        git add "$f"
+      fi
+
+      # Remove trailing whitespace
+      if grep -q "[[:blank:]]$" "$f"; then
+        # macOS uses BSD `sed`, so adjust the `-i` flag accordingly
+        if sed --version >/dev/null 2>&1; then
+          # GNU sed (Linux)
+          sed -i -e 's/[[:blank:]]\+$//' "$f"
+        else
+          # BSD sed (macOS)
+          sed -i '' -e 's/[[:blank:]]\+$//' "$f"
+        fi
+        git add "$f"
+      fi
+      ;;
+    *)
+      # Skip binary files
+      ;;
+  esac
+done

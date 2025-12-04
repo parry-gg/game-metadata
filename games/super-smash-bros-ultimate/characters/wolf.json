@@ -1,0 +1,66 @@
+{
+  "name": "Wolf",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae731-5ad4-7c69-833f-7cbfc8876cd1.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae731-5d1a-7d00-967b-e7a47e27e55f.png"
+      },
+      "metadata": {
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae731-5fc2-7492-a929-f97394e47421.png"
+      },
+      "metadata": {
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae731-61ce-73c9-8f83-8cb7fed38975.png"
+      },
+      "metadata": {
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae731-63b8-7c83-a264-73bb9409b89f.png"
+      },
+      "metadata": {
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae731-659c-7439-9db9-38b27bba9fa3.png"
+      },
+      "metadata": {
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae731-67c9-708b-bc36-6e10638cd543.png"
+      },
+      "metadata": {
+        "variant": 6
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae731-69d1-782c-89c9-51defadf4b3f.png"
+      },
+      "metadata": {
+        "variant": 7
+      }
+    }
+  ]
+}

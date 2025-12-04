@@ -1,0 +1,10 @@
+{
+  "name": "Mii Gunner",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72e-f099-772d-a1fa-7fb589302372.png"
+      }
+    }
+  ]
+}

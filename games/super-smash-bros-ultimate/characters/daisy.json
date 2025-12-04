@@ -1,0 +1,66 @@
+{
+  "name": "Daisy",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72c-6076-70fe-abbd-1225fe4bd51e.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72c-6296-74a2-a65d-f40d746072d5.png"
+      },
+      "metadata": {
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72c-6515-7577-9c29-2d5451e85707.png"
+      },
+      "metadata": {
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72c-6724-7a85-aeea-21def39e1884.png"
+      },
+      "metadata": {
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72c-691a-7161-ae6b-c15fb0674655.png"
+      },
+      "metadata": {
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72c-6b11-7883-9994-fcfb5794f74f.png"
+      },
+      "metadata": {
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72c-6cf9-7fb5-8bb2-1a8a35ae652b.png"
+      },
+      "metadata": {
+        "variant": 6
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72c-6ef8-7eb8-95dd-7b6bd6a3d490.png"
+      },
+      "metadata": {
+        "variant": 7
+      }
+    }
+  ]
+}

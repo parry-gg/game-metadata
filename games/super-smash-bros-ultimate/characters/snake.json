@@ -1,0 +1,66 @@
+{
+  "name": "Snake",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae730-ad69-7850-a7dd-edf77e8a342f.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae730-af72-7093-bd44-ee5b08c1adc7.png"
+      },
+      "metadata": {
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae730-b20e-75f8-85ab-70dd51810786.png"
+      },
+      "metadata": {
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae730-b3ee-77ac-81f9-53e37ef7f477.png"
+      },
+      "metadata": {
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae730-b5d9-7fa8-8089-48f39e449b72.png"
+      },
+      "metadata": {
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae730-b7e2-7fd5-a17f-ae13ae807143.png"
+      },
+      "metadata": {
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae730-b9d2-7b4d-a3f1-1a40e69f199d.png"
+      },
+      "metadata": {
+        "variant": 6
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae730-bbc1-7b55-9daa-e61bfc4bcdc5.png"
+      },
+      "metadata": {
+        "variant": 7
+      }
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "name": "Wii Fit Trainer",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae731-4a92-73eb-8929-367a91aef545.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae731-4c91-783e-8427-1886833e2896.png"
+      },
+      "metadata": {
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae731-4e6a-739c-8a27-8e62ea5ee655.png"
+      },
+      "metadata": {
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae731-50b7-7a42-bc76-aa8722407b77.png"
+      },
+      "metadata": {
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae731-52a3-701d-a7a5-ea4b2cffbc48.png"
+      },
+      "metadata": {
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae731-5495-7e46-b0dc-d804209d4177.png"
+      },
+      "metadata": {
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae731-5710-76f3-bdc5-26b1d7544036.png"
+      },
+      "metadata": {
+        "variant": 6
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae731-5901-7de6-9bf2-a966f5906e29.png"
+      },
+      "metadata": {
+        "variant": 7
+      }
+    }
+  ]
+}

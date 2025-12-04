@@ -1,0 +1,66 @@
+{
+  "name": "Terry",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae731-045c-7539-a188-e7d92e7765f5.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae731-0645-77b7-9f76-a7058bbc4ed4.png"
+      },
+      "metadata": {
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae731-0945-77de-9bb9-2a44b3c20bd9.png"
+      },
+      "metadata": {
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae731-0b91-7ac0-aafc-adec1c131389.png"
+      },
+      "metadata": {
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae731-0ddb-77a5-a7ed-00456c5bf6b5.png"
+      },
+      "metadata": {
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae731-1048-7eda-a4af-fa943d7de495.png"
+      },
+      "metadata": {
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae731-1259-7afc-85b5-63cc7ab03bd5.png"
+      },
+      "metadata": {
+        "variant": 6
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae731-14a6-7410-ab41-a83ad4d232a7.png"
+      },
+      "metadata": {
+        "variant": 7
+      }
+    }
+  ]
+}

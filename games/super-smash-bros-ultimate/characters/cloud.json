@@ -1,0 +1,66 @@
+{
+  "name": "Cloud",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72c-3dc9-7734-a67f-7f055acc75a3.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72c-3fb6-72ad-afb6-81c5b6f89a61.png"
+      },
+      "metadata": {
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72c-41c9-74cf-9338-8949165142c1.png"
+      },
+      "metadata": {
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72c-43c6-7e02-a7a4-715a8a2d7622.png"
+      },
+      "metadata": {
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72c-45c9-792c-bdb5-33f1c7b06356.png"
+      },
+      "metadata": {
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72c-47cc-7be9-a5d7-3f0e0b457e0e.png"
+      },
+      "metadata": {
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72c-49d0-7db8-bf41-fd7ba35dcf4b.png"
+      },
+      "metadata": {
+        "variant": 6
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72c-4c64-7a3b-82c7-407cf0eb4d3a.png"
+      },
+      "metadata": {
+        "variant": 7
+      }
+    }
+  ]
+}
