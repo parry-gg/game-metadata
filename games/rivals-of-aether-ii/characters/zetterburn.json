@@ -1,0 +1,10 @@
+{
+  "name": "Zetterburn",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "/Users/grantwarman/code/StreamHelperAssets/games/roa2/base_files/icon/RoA2_Zetterburn_0.png"
+      }
+    }
+  ]
+}

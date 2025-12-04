@@ -1,0 +1,10 @@
+{
+  "name": "Fire Capital",
+  "variants": [
+    {
+      "images": {
+        "thumbnail": "/Users/grantwarman/code/StreamHelperAssets/games/roa2/stage_icon/FireCapital.png"
+      }
+    }
+  ]
+}

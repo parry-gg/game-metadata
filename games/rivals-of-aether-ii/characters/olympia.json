@@ -1,0 +1,10 @@
+{
+  "name": "Olympia",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "/Users/grantwarman/code/StreamHelperAssets/games/roa2/base_files/icon/RoA2_Olympia_0.png"
+      }
+    }
+  ]
+}

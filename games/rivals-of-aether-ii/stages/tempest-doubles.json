@@ -1,0 +1,10 @@
+{
+  "name": "Tempest Doubles",
+  "variants": [
+    {
+      "images": {
+        "thumbnail": "/Users/grantwarman/code/StreamHelperAssets/games/roa2/stage_icon/TempestDoubles.png"
+      }
+    }
+  ]
+}

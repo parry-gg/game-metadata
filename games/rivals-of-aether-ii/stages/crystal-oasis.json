@@ -1,0 +1,10 @@
+{
+  "name": "Crystal Oasis",
+  "variants": [
+    {
+      "images": {
+        "thumbnail": "/Users/grantwarman/code/StreamHelperAssets/games/roa2/stage_icon/CrystalOasis.png"
+      }
+    }
+  ]
+}
