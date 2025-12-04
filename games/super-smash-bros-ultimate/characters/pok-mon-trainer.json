@@ -1,0 +1,66 @@
+{
+  "name": "Pokémon Trainer",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72f-b106-77f7-a7d9-b7d13709fc5c.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72f-b326-7c94-9d86-d8d66aeb7b43.png"
+      },
+      "metadata": {
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72f-b522-7b47-9691-ba2553bf41ea.png"
+      },
+      "metadata": {
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72f-b76f-77a8-9d1f-cf8c58268a77.png"
+      },
+      "metadata": {
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72f-b95d-7819-b145-8f27e3ae1599.png"
+      },
+      "metadata": {
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72f-bb71-77cc-acbc-e273b95a082d.png"
+      },
+      "metadata": {
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72f-bd99-7b92-b1db-ba340b306c16.png"
+      },
+      "metadata": {
+        "variant": 6
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72f-bf8a-7ba6-ab8f-736a1d6a9f92.png"
+      },
+      "metadata": {
+        "variant": 7
+      }
+    }
+  ]
+}

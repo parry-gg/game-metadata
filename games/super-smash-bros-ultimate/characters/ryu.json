@@ -1,0 +1,66 @@
+{
+  "name": "Ryu",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae730-3dfb-7f85-84b3-dfa8ce4541c4.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae730-4062-7c43-8a9a-44cadfa78b92.png"
+      },
+      "metadata": {
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae730-424c-726b-96f9-abb3b39286d2.png"
+      },
+      "metadata": {
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae730-4432-7c88-aa5a-3fd192ce70d8.png"
+      },
+      "metadata": {
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae730-46a1-7c37-b9ae-428f9e48d44f.png"
+      },
+      "metadata": {
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae730-50c4-7675-9074-f10ee557dc48.png"
+      },
+      "metadata": {
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae730-52ad-72b1-a8c8-b68ed047e9bf.png"
+      },
+      "metadata": {
+        "variant": 6
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae730-54c0-731d-b53f-d33b3b080ad5.png"
+      },
+      "metadata": {
+        "variant": 7
+      }
+    }
+  ]
+}

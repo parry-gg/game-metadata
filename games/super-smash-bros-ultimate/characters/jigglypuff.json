@@ -1,0 +1,66 @@
+{
+  "name": "Jigglypuff",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72d-ab09-7ce1-8b7b-301e928fdc00.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72d-aceb-740c-8cfa-14c5de4181d6.png"
+      },
+      "metadata": {
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72d-af0b-75e4-a597-5eb5af9f36b5.png"
+      },
+      "metadata": {
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72d-b177-7884-b0fb-1eb0fa75bbca.png"
+      },
+      "metadata": {
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72d-b373-707b-af77-7296ea3850a3.png"
+      },
+      "metadata": {
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72d-b605-70cc-827b-8f412bfc48fa.png"
+      },
+      "metadata": {
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72d-b821-7f10-bcad-d7742ec37712.png"
+      },
+      "metadata": {
+        "variant": 6
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72d-ba45-76f7-a20d-9dd7e04167eb.png"
+      },
+      "metadata": {
+        "variant": 7
+      }
+    }
+  ]
+}

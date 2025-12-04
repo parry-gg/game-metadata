@@ -1,0 +1,66 @@
+{
+  "name": "Little Mac",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72e-3bca-7450-96af-c2dbf6ad2885.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72e-3da1-7569-8d3d-1bbe42cb0f4c.png"
+      },
+      "metadata": {
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72e-3f90-73a1-9f3d-74627ae983e9.png"
+      },
+      "metadata": {
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72e-41d2-75e9-a0c7-edc3cbea8866.png"
+      },
+      "metadata": {
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72e-43d1-7b09-87d0-9601afc7f793.png"
+      },
+      "metadata": {
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72e-45c4-7a0e-b1ba-dbad9bb21037.png"
+      },
+      "metadata": {
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72e-47f0-7ff8-9ae0-ed1e2981fb65.png"
+      },
+      "metadata": {
+        "variant": 6
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72e-4a09-79c2-bb89-d2ff017fbfe7.png"
+      },
+      "metadata": {
+        "variant": 7
+      }
+    }
+  ]
+}

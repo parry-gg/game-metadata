@@ -1,0 +1,66 @@
+{
+  "name": "King K. Rool",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72e-03a0-7d0f-bb52-9bd7609b5c0e.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72e-0626-7d4c-adb1-0a54b220a8dd.png"
+      },
+      "metadata": {
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72e-08df-790b-b3e9-7f087882674b.png"
+      },
+      "metadata": {
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72e-0b79-7951-b562-b756f41d2e23.png"
+      },
+      "metadata": {
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72e-0f42-7f1c-9d5b-cd1fab70c7ce.png"
+      },
+      "metadata": {
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72e-11c4-78a1-b3f5-48e1a2c09f50.png"
+      },
+      "metadata": {
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72e-13ba-766b-82be-194c246f1c80.png"
+      },
+      "metadata": {
+        "variant": 6
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72e-15a6-7d69-8649-38c78328c6b7.png"
+      },
+      "metadata": {
+        "variant": 7
+      }
+    }
+  ]
+}

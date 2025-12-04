@@ -1,0 +1,66 @@
+{
+  "name": "Charizard",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72c-1b8b-7f3a-b63c-b6a95099dde7.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72c-1de4-74c8-944d-dc3c498f72a6.png"
+      },
+      "metadata": {
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72c-1fe9-7efd-a009-3b60b4b32c66.png"
+      },
+      "metadata": {
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72c-22a7-7827-9ba7-915ee4916777.png"
+      },
+      "metadata": {
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72c-24ab-7d27-a9e9-3f880cd552cb.png"
+      },
+      "metadata": {
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72c-26fa-7182-a69c-16d80b200da1.png"
+      },
+      "metadata": {
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72c-28fe-75a9-bf86-5a478fa5b4f7.png"
+      },
+      "metadata": {
+        "variant": 6
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72c-2b4d-76cb-a188-69cb7b87e985.png"
+      },
+      "metadata": {
+        "variant": 7
+      }
+    }
+  ]
+}

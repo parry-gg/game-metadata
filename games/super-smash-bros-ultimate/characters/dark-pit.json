@@ -1,0 +1,66 @@
+{
+  "name": "Dark Pit",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72c-7128-7cca-b5d9-d7ac7d4d6373.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72c-737b-7b4e-84a7-f531be423bef.png"
+      },
+      "metadata": {
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72c-7602-7d7c-b599-59fac88d55c4.png"
+      },
+      "metadata": {
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72c-787d-776e-a11f-87c8b30691d2.png"
+      },
+      "metadata": {
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72c-7ae1-729b-9035-dacbfa864b5d.png"
+      },
+      "metadata": {
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72c-7d11-79ff-a387-58572a13c145.png"
+      },
+      "metadata": {
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72c-7f6a-7a37-a4e8-7afbe60306ea.png"
+      },
+      "metadata": {
+        "variant": 6
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72c-81f5-7c59-949c-619f5e0c7666.png"
+      },
+      "metadata": {
+        "variant": 7
+      }
+    }
+  ]
+}

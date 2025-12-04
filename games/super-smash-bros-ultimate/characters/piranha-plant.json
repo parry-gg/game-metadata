@@ -1,0 +1,66 @@
+{
+  "name": "Piranha Plant",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72f-8e9f-772b-a47c-80676be3f032.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72f-9082-7705-b0bf-ba129e2906f7.png"
+      },
+      "metadata": {
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72f-9271-707b-aa05-04e8e2b5348e.png"
+      },
+      "metadata": {
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72f-94df-7955-ade0-81ce1378da69.png"
+      },
+      "metadata": {
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72f-983e-7897-bc33-eef98337e98f.png"
+      },
+      "metadata": {
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72f-9aa6-7497-a133-25a249cea810.png"
+      },
+      "metadata": {
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72f-9c98-7f47-a117-bd212ddbde12.png"
+      },
+      "metadata": {
+        "variant": 6
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72f-9ea3-7fc8-89b6-4731a83e5e15.png"
+      },
+      "metadata": {
+        "variant": 7
+      }
+    }
+  ]
+}

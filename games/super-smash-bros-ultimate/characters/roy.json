@@ -1,0 +1,66 @@
+{
+  "name": "Roy",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae730-2c9e-77aa-91a1-1c04cab766e1.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae730-2e9c-7676-9937-cdceb435f35a.png"
+      },
+      "metadata": {
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae730-30c3-7b13-8acd-ecf90dfce6f3.png"
+      },
+      "metadata": {
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae730-340f-7cef-9077-dd282e48c892.png"
+      },
+      "metadata": {
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae730-363b-7e79-8b4a-645260bfef18.png"
+      },
+      "metadata": {
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae730-3828-7689-a0ce-aeb4f414a258.png"
+      },
+      "metadata": {
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae730-39fd-7243-bd50-0a0116d7cb0d.png"
+      },
+      "metadata": {
+        "variant": 6
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae730-3c1b-7d3c-965a-8ca8b7733107.png"
+      },
+      "metadata": {
+        "variant": 7
+      }
+    }
+  ]
+}

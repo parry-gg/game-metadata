@@ -1,0 +1,66 @@
+{
+  "name": "Steve",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae730-f3fb-7a51-b2db-0c2c440e9fb0.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae730-f636-7073-81bc-ca670e926cf2.png"
+      },
+      "metadata": {
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae730-f831-73e8-9eb7-65cd2fa372d5.png"
+      },
+      "metadata": {
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae730-fa31-7415-9fcf-ea90efe5e7bd.png"
+      },
+      "metadata": {
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae730-fc3e-7884-bafa-5faa271513f5.png"
+      },
+      "metadata": {
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae730-fe21-7aac-95e6-f550aaf9f6cf.png"
+      },
+      "metadata": {
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae731-0010-7503-9c3c-9137eacd074a.png"
+      },
+      "metadata": {
+        "variant": 6
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae731-0240-7a61-84e0-36c681b74ff2.png"
+      },
+      "metadata": {
+        "variant": 7
+      }
+    }
+  ]
+}

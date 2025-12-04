@@ -1,0 +1,10 @@
+{
+  "name": "Mii Brawler",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72e-ee83-729d-a5ae-2cc300bf39b2.png"
+      }
+    }
+  ]
+}

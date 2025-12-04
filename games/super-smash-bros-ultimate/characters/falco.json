@@ -1,0 +1,66 @@
+{
+  "name": "Falco",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72c-e17c-7ce4-8f5b-80a1cf3baa52.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72c-e453-7997-952a-ba513e71e283.png"
+      },
+      "metadata": {
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72c-e71b-762c-8034-f52f4d525d79.png"
+      },
+      "metadata": {
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72c-e91e-76f5-a290-fd5218bb8b95.png"
+      },
+      "metadata": {
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72c-eba9-77d6-938b-3d92bbec58e8.png"
+      },
+      "metadata": {
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72c-edc7-738e-83c9-00533ea6ecc3.png"
+      },
+      "metadata": {
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72c-efd0-731b-adbd-620f3ac994e1.png"
+      },
+      "metadata": {
+        "variant": 6
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72c-f1d4-7e58-be5a-a9a7df99842a.png"
+      },
+      "metadata": {
+        "variant": 7
+      }
+    }
+  ]
+}

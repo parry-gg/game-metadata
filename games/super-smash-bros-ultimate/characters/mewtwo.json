@@ -1,0 +1,66 @@
+{
+  "name": "Mewtwo",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72e-d6f8-78b1-b145-0c3e7b0bd186.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72e-db77-7ef8-91b8-1fd8eb8a489a.png"
+      },
+      "metadata": {
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72e-e1d8-7ac7-bcfd-4c1a3d054207.png"
+      },
+      "metadata": {
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72e-e43e-7159-9d4b-8c24e81445c3.png"
+      },
+      "metadata": {
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72e-e64c-7765-8559-aa3dcff0c023.png"
+      },
+      "metadata": {
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72e-e839-77c7-9605-b71fd531fc88.png"
+      },
+      "metadata": {
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72e-ea21-7436-a70b-72657dfb0140.png"
+      },
+      "metadata": {
+        "variant": 6
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72e-ec4c-731b-96bc-6f69e37a0a67.png"
+      },
+      "metadata": {
+        "variant": 7
+      }
+    }
+  ]
+}

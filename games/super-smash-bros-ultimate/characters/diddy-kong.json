@@ -1,0 +1,66 @@
+{
+  "name": "Diddy Kong",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72c-9b6a-753e-b674-58e330a076ca.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72c-9d4e-7ee5-81bf-b8a25d743b15.png"
+      },
+      "metadata": {
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72c-9f39-7749-a4c5-5743b8fae61d.png"
+      },
+      "metadata": {
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72c-a176-7fa6-9401-4056eb484205.png"
+      },
+      "metadata": {
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72c-a3bb-75cc-a1ca-738422644f23.png"
+      },
+      "metadata": {
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72c-a5cc-7b44-b24f-14dbb23ad42e.png"
+      },
+      "metadata": {
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72c-a82d-7000-b846-fec3841ff4ec.png"
+      },
+      "metadata": {
+        "variant": 6
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72c-aa63-7159-b15c-c78bcb2aea4a.png"
+      },
+      "metadata": {
+        "variant": 7
+      }
+    }
+  ]
+}

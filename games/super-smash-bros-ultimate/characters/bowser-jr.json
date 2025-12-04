@@ -1,0 +1,66 @@
+{
+  "name": "Bowser Jr.",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72b-d4fb-7bda-99c5-a373de8a18bc.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72b-d755-79d2-b23d-0139a3bb0ae4.png"
+      },
+      "metadata": {
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72b-d970-7a6f-95b9-8e1ca108c237.png"
+      },
+      "metadata": {
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72b-db8f-7235-846e-d70ffcc98239.png"
+      },
+      "metadata": {
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72b-dd8b-75e7-b21c-b7e655026639.png"
+      },
+      "metadata": {
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72b-df8f-7b36-b45f-29656dff5f20.png"
+      },
+      "metadata": {
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72b-e1fb-7c43-a1b8-dcc1613ddd85.png"
+      },
+      "metadata": {
+        "variant": 6
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72b-e43b-7bbd-8c63-5b8133418857.png"
+      },
+      "metadata": {
+        "variant": 7
+      }
+    }
+  ]
+}

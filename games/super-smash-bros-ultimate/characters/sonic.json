@@ -1,0 +1,66 @@
+{
+  "name": "Sonic",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae730-bdca-76ee-9b48-09d28cf3e5db.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae730-bfc6-781a-a96a-bdbaa6b9d3d4.png"
+      },
+      "metadata": {
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae730-c3d3-7c55-a63a-cca4a0cf8466.png"
+      },
+      "metadata": {
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae730-c5cc-7ad2-a38d-f692b68b4466.png"
+      },
+      "metadata": {
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae730-c7d6-7ee4-a9bd-3b74c9a80569.png"
+      },
+      "metadata": {
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae730-c9d0-7f50-a037-15b965827667.png"
+      },
+      "metadata": {
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae730-cbb1-77ed-bc3b-b415c4931988.png"
+      },
+      "metadata": {
+        "variant": 6
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae730-cdda-7e85-af61-22f0b097657c.png"
+      },
+      "metadata": {
+        "variant": 7
+      }
+    }
+  ]
+}

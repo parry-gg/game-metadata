@@ -1,0 +1,66 @@
+{
+  "name": "Ken",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72d-e005-7c30-be24-f7c5ce290090.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72d-e25c-75d5-b7f4-cd4b8e875c26.png"
+      },
+      "metadata": {
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72d-e528-79d2-9a6a-4137d5f78783.png"
+      },
+      "metadata": {
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72d-e76f-7c8f-ac36-24c972ba7d8d.png"
+      },
+      "metadata": {
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72d-e996-7d0a-9d22-d4f3bdb76d4f.png"
+      },
+      "metadata": {
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72d-eb88-75b8-8178-4f5edb627136.png"
+      },
+      "metadata": {
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72d-edda-79e3-b096-b60c017dd662.png"
+      },
+      "metadata": {
+        "variant": 6
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72d-efdc-7831-8b07-1afd0c1d0139.png"
+      },
+      "metadata": {
+        "variant": 7
+      }
+    }
+  ]
+}

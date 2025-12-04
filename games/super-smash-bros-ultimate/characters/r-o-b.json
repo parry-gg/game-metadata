@@ -1,0 +1,66 @@
+{
+  "name": "R.O.B.",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72f-d233-71b5-8ebc-3a43aa2b3113.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72f-d43d-708b-a2f0-27243df0f6f3.png"
+      },
+      "metadata": {
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72f-d61d-77cf-be27-c5cf19ca699e.png"
+      },
+      "metadata": {
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72f-d910-72c7-b8e9-45b99736b74d.png"
+      },
+      "metadata": {
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72f-db6e-77c8-8ad0-65dfda2a3a11.png"
+      },
+      "metadata": {
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72f-dddc-72fd-aeb3-ad4d33166869.png"
+      },
+      "metadata": {
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72f-dfca-7e20-8a6b-a288e648ecdd.png"
+      },
+      "metadata": {
+        "variant": 6
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72f-e19a-7842-8231-af76db407791.png"
+      },
+      "metadata": {
+        "variant": 7
+      }
+    }
+  ]
+}

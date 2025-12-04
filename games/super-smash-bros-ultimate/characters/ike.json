@@ -1,0 +1,66 @@
+{
+  "name": "Ike",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72d-4c2c-7b5a-9325-e459b5b00688.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72d-4e81-757d-a233-8d4c14d4670b.png"
+      },
+      "metadata": {
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72d-5391-7ebf-9c4c-f27d40ac4ec7.png"
+      },
+      "metadata": {
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72d-55a4-7c52-a96c-a17002540f45.png"
+      },
+      "metadata": {
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72d-57dd-74f6-b3fc-58e633199f7e.png"
+      },
+      "metadata": {
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72d-5a59-7036-b79a-e1c799ab6f89.png"
+      },
+      "metadata": {
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72d-5c55-727f-87af-04de762ac2c3.png"
+      },
+      "metadata": {
+        "variant": 6
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72d-5ebc-7198-999c-6f5bf7d7efc9.png"
+      },
+      "metadata": {
+        "variant": 7
+      }
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "name": "Link",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72e-2940-7e11-b28b-3966907aa3c4.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72e-2b63-7405-adce-df99a4f89114.png"
+      },
+      "metadata": {
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72e-2d62-7aaa-8bf9-a50e97bf49e4.png"
+      },
+      "metadata": {
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72e-2f66-75db-b526-a93897a8d090.png"
+      },
+      "metadata": {
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72e-3182-7e89-b639-a9cfaa2d0cc6.png"
+      },
+      "metadata": {
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72e-33f8-7f2f-8c50-6d7065fc75df.png"
+      },
+      "metadata": {
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72e-379c-7c88-9263-66109fa19588.png"
+      },
+      "metadata": {
+        "variant": 6
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72e-3990-7d20-adf0-a74bf68e44b1.png"
+      },
+      "metadata": {
+        "variant": 7
+      }
+    }
+  ]
+}

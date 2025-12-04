@@ -1,0 +1,66 @@
+{
+  "name": "Squirtle",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae730-dfe3-7be5-8f8f-513e94c1e73a.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae730-e1f0-794e-b35c-eb16692ee04a.png"
+      },
+      "metadata": {
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae730-e43c-7115-8180-42fd75054320.png"
+      },
+      "metadata": {
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae730-e6b8-720e-a188-3dd5c310925a.png"
+      },
+      "metadata": {
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae730-eb83-7890-85ef-f8e4544bb3f6.png"
+      },
+      "metadata": {
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae730-eda1-7248-83d2-3f1f96606807.png"
+      },
+      "metadata": {
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae730-efe0-7e59-a08a-700444e89a59.png"
+      },
+      "metadata": {
+        "variant": 6
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae730-f1f8-7deb-a883-b1bf2a82d4fb.png"
+      },
+      "metadata": {
+        "variant": 7
+      }
+    }
+  ]
+}

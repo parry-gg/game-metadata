@@ -1,0 +1,66 @@
+{
+  "name": "Banjo & Kazooie",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72b-afc7-7889-a9ae-8b028e5a7693.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72b-b3c4-74d3-8af1-2764786ee0f2.png"
+      },
+      "metadata": {
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72b-b603-7b9a-986a-35911af72299.png"
+      },
+      "metadata": {
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72b-b816-7a8c-b979-f197688c5f6e.png"
+      },
+      "metadata": {
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72b-ba36-7f77-a4c4-a4d61d9228aa.png"
+      },
+      "metadata": {
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72b-bc4c-73e5-afa6-87d4f2b22bef.png"
+      },
+      "metadata": {
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72b-beb2-7319-87c3-91f26d5374a1.png"
+      },
+      "metadata": {
+        "variant": 6
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72b-c0be-7119-a905-b8524da8bd74.png"
+      },
+      "metadata": {
+        "variant": 7
+      }
+    }
+  ]
+}

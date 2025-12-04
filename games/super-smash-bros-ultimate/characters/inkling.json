@@ -1,0 +1,66 @@
+{
+  "name": "Inkling",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72d-7442-7584-8712-cf945b3cf52e.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72d-7659-78ef-8566-5dc450a1caea.png"
+      },
+      "metadata": {
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72d-7896-7f99-b07d-5c115f60f7ed.png"
+      },
+      "metadata": {
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72d-7bd4-7d55-ba9e-609d0ebd4a48.png"
+      },
+      "metadata": {
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72d-7dc1-74fe-bc44-90a9a09ad823.png"
+      },
+      "metadata": {
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72d-7ff8-77c2-b857-ad782e880f69.png"
+      },
+      "metadata": {
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72d-828d-744b-8546-c7333d93da28.png"
+      },
+      "metadata": {
+        "variant": 6
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72d-84da-78ee-920e-616784461ea7.png"
+      },
+      "metadata": {
+        "variant": 7
+      }
+    }
+  ]
+}

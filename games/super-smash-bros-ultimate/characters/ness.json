@@ -1,0 +1,66 @@
+{
+  "name": "Ness",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72f-15e2-75b0-a3e8-4489838c5b4d.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72f-17d3-7af3-b199-25d2a2ffc821.png"
+      },
+      "metadata": {
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72f-19b6-73a3-a23f-b3050a633a56.png"
+      },
+      "metadata": {
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72f-1bdb-7fe4-8f95-9f4487d77918.png"
+      },
+      "metadata": {
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72f-1dd7-76a3-b666-154a7a0e5ddf.png"
+      },
+      "metadata": {
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72f-2050-70e1-9890-3c625f84f36d.png"
+      },
+      "metadata": {
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72f-22a1-730f-b4fe-1ac225aa1447.png"
+      },
+      "metadata": {
+        "variant": 6
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72f-2487-7847-9fe8-eeb427a8c9b7.png"
+      },
+      "metadata": {
+        "variant": 7
+      }
+    }
+  ]
+}

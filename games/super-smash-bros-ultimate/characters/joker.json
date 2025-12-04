@@ -1,0 +1,66 @@
+{
+  "name": "Joker",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72d-bc8a-70b2-a2f0-305478249a37.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72d-bfdf-7110-ba9a-38377a9d6246.png"
+      },
+      "metadata": {
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72d-c286-7a36-bc4d-894b70f0924d.png"
+      },
+      "metadata": {
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72d-c4a3-79d0-bfd7-2d95f3f74fe6.png"
+      },
+      "metadata": {
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72d-c69d-7125-87a0-534ab72d7243.png"
+      },
+      "metadata": {
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72d-c88c-7a26-a8d9-812dacb9d45a.png"
+      },
+      "metadata": {
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72d-ca67-77e7-b15b-b4c63c7919cb.png"
+      },
+      "metadata": {
+        "variant": 6
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ae72d-cca9-732e-96e4-84287be7e7ab.png"
+      },
+      "metadata": {
+        "variant": 7
+      }
+    }
+  ]
+}
