@@ -1,0 +1,10 @@
+{
+  "name": "Mars",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019bf883-49ad-7085-ae4e-c2b3de62a052.png"
+      }
+    }
+  ]
+}
