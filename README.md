@@ -7,13 +7,7 @@ A community-sourced database of game metadata (characters and stages) for the [P
 ### Project Structure
 
 ```
-├── .gitignore                  # Binary file exclusion rules
-├── LICENSE                     # MIT License
-├── README.md                   # This file
-├── tsconfig.json               # TypeScript configuration
-├── package.json                # Node.js dependencies
 ├── scripts/
-│   ├── .gitkeep
 │   └── upload-assets.ts        # Asset upload tool
 └── games/
     └── [game-slug]/
@@ -21,7 +15,6 @@ A community-sourced database of game metadata (characters and stages) for the [P
         │   └── [character-slug].json
         └── stages/
             └── [stage-slug].json
-            └── stock-icons/    # Local image directory (referenced in JSON)
 ```
 
 ### Naming Convention
@@ -31,14 +24,12 @@ All folders and filenames use **kebab-case** to ensure compatibility across oper
 ✅ Correct:
 - `super-smash-bros-ultimate/`
 - `king-k-rool.json`
-- `stock-icons/` folder
-- `neutral-variant.png` file
+- `neutral-variant.png`
 
 ❌ Incorrect:
 - `SuperSmashBrosUltimate/`
 - `KingKRool.json`
-- `Stock Icons/` folder
-- `NeutralVariant.png` file
+- `NeutralVariant.png`
 
 ## Data Format
 
@@ -96,7 +87,7 @@ Each stage gets a separate JSON file in `games/[game]/stages/[stage].json`:
     "is_legal": true
   },
   "images": {
-    "thumbnail": "./stock-icons/battlefield-thumb.png",
+    "thumbnail": "./images/battlefield-thumb.png",
     "banner": "https://cdn.parry.gg/ssbu/stages/battlefield-banner.webp"
   }
 }
@@ -116,13 +107,11 @@ Each stage gets a separate JSON file in `games/[game]/stages/[stage].json`:
 
 ### Local Development
 
-During development, reference local image files with relative paths:
+During development, reference local image files with paths relative to the project root (where you run the upload script from):
 
 ```json
-"stock_icon": "./stock-icons/character-name.png"
+"stock_icon": "./images/character-name.png"
 ```
-
-Images should be organized in `games/[game]/stock-icons/` or similar subdirectories.
 
 ### Uploading to CDN
 
@@ -180,7 +169,6 @@ Example:
 ```bash
 mkdir -p games/tekken-8/characters
 mkdir -p games/tekken-8/stages
-mkdir -p games/tekken-8/stock-icons
 ```
 
 ### Adding Characters
@@ -198,7 +186,7 @@ cat > games/tekken-8/characters/kazuya.json << 'EOF'
   "variants": [
     {
       "images": {
-        "stock_icon": "./stock-icons/kazuya-neutral.png"
+        "stock_icon": "./images/kazuya-neutral.png"
       }
     }
   ]
@@ -214,17 +202,7 @@ EOF
 
 ### Image Organization
 
-Store images locally in `games/[game]/stock-icons/` or similar:
-
-```
-games/[game]/stock-icons/
-├── character-name-neutral.png
-├── character-name-blue.png
-├── character-name-red.png
-└── stage-name-thumb.png
-```
-
-**Important:** Use kebab-case for all image filenames to avoid case sensitivity issues.
+Place images alongside the JSON files that reference them. Use kebab-case for all image filenames to avoid case sensitivity issues.
 
 ### Before Committing
 
@@ -237,24 +215,31 @@ games/[game]/stock-icons/
 
 ### Step 1: Create metadata with local paths
 
+Paths are relative to the project root (where you run the upload script):
+
 ```json
 {
   "name": "Ryu",
   "variants": [
     {
       "images": {
-        "stock_icon": "./stock-icons/ryu-neutral.png"
+        "stock_icon": "./images/ryu-neutral.png"
       }
     }
   ]
 }
 ```
 
-### Step 2: Place image files in stock-icons directory
+### Step 2: Place image files in the referenced location
 
 ```
-games/street-fighter-6/stock-icons/
-└── ryu-neutral.png
+project-root/
+├── images/
+│   └── ryu-neutral.png
+└── games/
+    └── street-fighter-6/
+        └── characters/
+            └── ryu.json
 ```
 
 ### Step 3: Test upload with dry-run
