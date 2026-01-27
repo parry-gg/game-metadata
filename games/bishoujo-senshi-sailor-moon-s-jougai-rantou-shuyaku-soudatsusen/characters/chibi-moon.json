@@ -1,0 +1,10 @@
+{
+  "name": "Chibi Moon",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019bf883-33b1-702d-ad0b-3fcdcbf706bb.png"
+      }
+    }
+  ]
+}
