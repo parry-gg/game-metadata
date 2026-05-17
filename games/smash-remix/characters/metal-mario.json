@@ -1,0 +1,55 @@
+{
+  "name": "Metal Mario",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-1070-73d4-9d8b-b71aa0eba577.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-10ce-7a71-8af1-e4d80e866899.png"
+      },
+      "metadata": {
+        "color": "red",
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-1151-7155-8eb6-6b20258d97e3.png"
+      },
+      "metadata": {
+        "color": "green",
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-11a8-7d87-9210-62bfaf49cb33.png"
+      },
+      "metadata": {
+        "color": "blue",
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-11fe-72ff-be93-2e463c5a4fdb.png"
+      },
+      "metadata": {
+        "color": "yellow",
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-1255-792c-be27-66bebe45b361.png"
+      },
+      "metadata": {
+        "color": "pink",
+        "variant": 5
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Dr Mario",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-cb5d-7a84-929e-1575dfb7b616.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-cbbd-774c-a92d-88acf5b9174a.png"
+      },
+      "metadata": {
+        "color": "red",
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-cc13-7392-b214-cdae7269e67f.png"
+      },
+      "metadata": {
+        "color": "black",
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-cc6c-73c4-a2a6-ca034fa10f18.png"
+      },
+      "metadata": {
+        "color": "light blue",
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-ccdb-73c9-b2cd-b2818900c9ca.png"
+      },
+      "metadata": {
+        "color": "green",
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-cd3e-76e0-a8cb-753aa2c24854.png"
+      },
+      "metadata": {
+        "color": "yellow",
+        "variant": 5
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Wolf",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-4191-72ae-9ef8-a8c96475445b.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-41d9-7441-9cd3-f6ee8a6038d7.png"
+      },
+      "metadata": {
+        "color": "pink",
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-4290-72b5-98a2-aee3f9f11d25.png"
+      },
+      "metadata": {
+        "color": "light blue",
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-4313-723d-b6a9-14d497bdcdb0.png"
+      },
+      "metadata": {
+        "color": "green",
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-4368-74e7-ac39-048617ef0d95.png"
+      },
+      "metadata": {
+        "color": "black",
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-43eb-7c6e-8dfd-378b9428fefa.png"
+      },
+      "metadata": {
+        "color": "violet",
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-4444-7683-9214-bcb2159d4d28.png"
+      },
+      "metadata": {
+        "color": "yellow",
+        "variant": 6
+      }
+    }
+  ]
+}

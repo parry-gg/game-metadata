@@ -1,0 +1,73 @@
+{
+  "name": "Samus",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-2650-7a79-ba33-3fca08034b6b.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-26a7-7eed-a683-b1a5e430844e.png"
+      },
+      "metadata": {
+        "color": "pink",
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-272f-7d76-a471-1158d9380739.png"
+      },
+      "metadata": {
+        "color": "black",
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-27b4-7d7a-b5e9-27ee60371a29.png"
+      },
+      "metadata": {
+        "color": "green",
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-2838-72e0-91d1-d5b2e6a7b3f2.png"
+      },
+      "metadata": {
+        "color": "violet",
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-2892-745d-acaa-1a74a52215ea.png"
+      },
+      "metadata": {
+        "color": "white",
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-28ff-7cbe-9e78-b9b66dcab400.png"
+      },
+      "metadata": {
+        "color": "light blue",
+        "variant": 6
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-2969-7c9c-83fc-fc1b467cfaa0.png"
+      },
+      "metadata": {
+        "color": "yellow",
+        "variant": 7
+      }
+    }
+  ]
+}

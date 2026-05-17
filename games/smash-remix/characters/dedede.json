@@ -1,0 +1,55 @@
+{
+  "name": "Dedede",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-b287-742e-9c2a-8ea1d4820f19.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-b2f9-7394-a7d8-f34007081393.png"
+      },
+      "metadata": {
+        "color": "pink",
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-b34d-751d-9a9b-b1bfbcda20e4.png"
+      },
+      "metadata": {
+        "color": "orange",
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-b401-79ad-a971-98ca88b22cd8.png"
+      },
+      "metadata": {
+        "color": "blue",
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-bb83-747b-a962-8ecb10802da4.png"
+      },
+      "metadata": {
+        "color": "green",
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-bbfb-77d3-873c-5af30d493096.png"
+      },
+      "metadata": {
+        "color": "white",
+        "variant": 5
+      }
+    }
+  ]
+}

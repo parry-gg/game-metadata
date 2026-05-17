@@ -1,0 +1,73 @@
+{
+  "name": "Banjo",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-9e52-7424-8e93-b142a97ac002.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-9f3a-74cd-85ad-2442c3c3f68a.png"
+      },
+      "metadata": {
+        "color": "black",
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-9fb0-71a6-a276-b8c364522c1c.png"
+      },
+      "metadata": {
+        "color": "blue",
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-a005-742f-8826-dd01cace8be3.png"
+      },
+      "metadata": {
+        "color": "green",
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-a05f-70dc-826a-d451f8e78643.png"
+      },
+      "metadata": {
+        "color": "yellow",
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-a0cc-780a-a547-3a54475791bb.png"
+      },
+      "metadata": {
+        "color": "white",
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-a136-7b91-bcab-45b126fd1b52.png"
+      },
+      "metadata": {
+        "color": "orange",
+        "variant": 6
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-a1a1-7568-8516-e80c48d68dcd.png"
+      },
+      "metadata": {
+        "color": "pink",
+        "variant": 7
+      }
+    }
+  ]
+}

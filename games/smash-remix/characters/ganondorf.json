@@ -1,0 +1,64 @@
+{
+  "name": "Ganondorf",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-dfed-7ecc-8dac-1d5968b2b9a5.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-e050-758d-802d-063b1ca7543e.png"
+      },
+      "metadata": {
+        "color": "blue",
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-e0cf-7be9-8af0-d6116923644f.png"
+      },
+      "metadata": {
+        "color": "light blue",
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-e134-799d-87ab-8e039c07ab6f.png"
+      },
+      "metadata": {
+        "color": "violet",
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-e1ba-7cf3-a502-e7da4f2fd5f7.png"
+      },
+      "metadata": {
+        "color": "green",
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-e210-74f5-ab4b-92c629aa1e9f.png"
+      },
+      "metadata": {
+        "color": "red",
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-e27c-7050-aaf6-591e60d919a4.png"
+      },
+      "metadata": {
+        "color": "yellow",
+        "variant": 6
+      }
+    }
+  ]
+}

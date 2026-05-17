@@ -1,0 +1,73 @@
+{
+  "name": "Giant Donkey Kong",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-e2d7-76fa-9074-598bacd2ef6f.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-e33f-72ae-adaf-436e80cccf36.png"
+      },
+      "metadata": {
+        "color": "black",
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-e3af-7ac4-8d32-49d3d747b59a.png"
+      },
+      "metadata": {
+        "color": "red",
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-e421-730a-ac1f-eeb444604a14.png"
+      },
+      "metadata": {
+        "color": "blue",
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-e46f-782c-acf3-534955cde99a.png"
+      },
+      "metadata": {
+        "color": "green",
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-e4bd-76a6-991f-c6c5fc0de907.png"
+      },
+      "metadata": {
+        "color": "pink",
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-e52c-702b-b244-d3f7c59997a5.png"
+      },
+      "metadata": {
+        "color": "white",
+        "variant": 6
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-e577-712c-a2f7-80194ea8dcad.png"
+      },
+      "metadata": {
+        "color": "yellow",
+        "variant": 7
+      }
+    }
+  ]
+}

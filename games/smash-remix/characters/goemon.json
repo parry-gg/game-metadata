@@ -1,0 +1,73 @@
+{
+  "name": "Goemon",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-e854-7396-8ba9-e5158e26f775.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-e89e-7cb6-94e4-eb50c477b639.png"
+      },
+      "metadata": {
+        "color": "blue",
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-e911-794c-9ec5-a68afeb2f683.png"
+      },
+      "metadata": {
+        "color": "green",
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-e966-791d-8603-2a76ac0baa84.png"
+      },
+      "metadata": {
+        "color": "violet",
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-e9bc-7af0-ab5f-d23046d1856a.png"
+      },
+      "metadata": {
+        "color": "pink",
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-ea07-7c7b-981d-ebfaa6772fcf.png"
+      },
+      "metadata": {
+        "color": "white",
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-ea61-76bd-9108-4b28e70820bf.png"
+      },
+      "metadata": {
+        "color": "yellow",
+        "variant": 6
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-eabe-76da-9451-9334d0b89030.png"
+      },
+      "metadata": {
+        "color": "red",
+        "variant": 7
+      }
+    }
+  ]
+}

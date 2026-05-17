@@ -1,0 +1,64 @@
+{
+  "name": "Young Link",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-4aac-7a09-8eed-1460927cfde8.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-4b20-7669-9492-6cc78281f106.png"
+      },
+      "metadata": {
+        "color": "light blue",
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-4b6f-7ae4-9817-fa6cde1cd864.png"
+      },
+      "metadata": {
+        "color": "red",
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-4bb8-7004-b9b4-8934546bc761.png"
+      },
+      "metadata": {
+        "color": "blue",
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-4c12-7752-8abf-9763dda9b2f7.png"
+      },
+      "metadata": {
+        "color": "pink",
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-4c5a-7bf0-9d21-14e10f0a9d52.png"
+      },
+      "metadata": {
+        "color": "black",
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-4cbb-765b-906b-6881106213a7.png"
+      },
+      "metadata": {
+        "color": "yellow",
+        "variant": 6
+      }
+    }
+  ]
+}

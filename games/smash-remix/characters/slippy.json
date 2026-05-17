@@ -1,0 +1,64 @@
+{
+  "name": "Slippy",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-2c08-725c-890b-7b0353d98ab9.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-2c51-7c07-9a89-ef0df224740d.png"
+      },
+      "metadata": {
+        "color": "red",
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-2c9b-7c93-9111-db9dc493dc84.png"
+      },
+      "metadata": {
+        "color": "blue",
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-2cf5-7b2d-9412-415d413d5cf5.png"
+      },
+      "metadata": {
+        "color": "green",
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-2d91-7317-8a2d-4c65add72a4a.png"
+      },
+      "metadata": {
+        "color": "violet",
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-2de5-7252-bbec-4f71e271baee.png"
+      },
+      "metadata": {
+        "color": "orange",
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-2e62-77c4-8fad-a10e6b77c050.png"
+      },
+      "metadata": {
+        "color": "brown",
+        "variant": 6
+      }
+    }
+  ]
+}

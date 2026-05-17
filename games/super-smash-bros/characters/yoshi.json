@@ -1,0 +1,91 @@
+{
+  "name": "Yoshi",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-44ba-7cdf-b078-74b4777eb665.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-4510-71e8-a4db-84a8d66f4f62.png"
+      },
+      "metadata": {
+        "color": "red",
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-4566-7687-8379-678d469189e7.png"
+      },
+      "metadata": {
+        "color": "light blue",
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-45c3-7796-8750-2cf9fc6ed0c9.png"
+      },
+      "metadata": {
+        "color": "yellow",
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-4620-7ee9-840f-73058e5c13db.png"
+      },
+      "metadata": {
+        "color": "pink",
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-469d-794d-81e6-86f304f27ea1.png"
+      },
+      "metadata": {
+        "color": "dark blue",
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-48a8-7acb-8946-a52104c6e49b.png"
+      },
+      "metadata": {
+        "color": "black",
+        "variant": 6
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-4975-77a1-b049-786a9abd8de6.png"
+      },
+      "metadata": {
+        "color": "white",
+        "variant": 7
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-49c4-707e-afd4-d6f08c2b1ef2.png"
+      },
+      "metadata": {
+        "color": "orange",
+        "variant": 8
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-4a18-72e6-9b72-57cd9024592f.png"
+      },
+      "metadata": {
+        "color": "violet",
+        "variant": 9
+      }
+    }
+  ]
+}

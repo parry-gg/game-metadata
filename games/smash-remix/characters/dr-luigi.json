@@ -1,0 +1,73 @@
+{
+  "name": "Dr Luigi",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-c82f-73a5-a2f8-b81e84361706.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-c879-7c8b-b349-931e2e7a6c44.png"
+      },
+      "metadata": {
+        "color": "light blue",
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-c8d2-7627-b997-78e15c79dd7b.png"
+      },
+      "metadata": {
+        "color": "pink",
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-c96f-7115-8bce-a194278730bb.png"
+      },
+      "metadata": {
+        "color": "yellow",
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-c9bf-74f9-8d6e-10cc6aff98e9.png"
+      },
+      "metadata": {
+        "color": "orange",
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-ca36-7a2d-8b85-cbaf9cf789ae.png"
+      },
+      "metadata": {
+        "color": "black",
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-ca82-757c-a315-2aaad4b73b22.png"
+      },
+      "metadata": {
+        "color": "green",
+        "variant": 6
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-cae1-714e-a3f1-154bdd8de240.png"
+      },
+      "metadata": {
+        "color": "violet",
+        "variant": 7
+      }
+    }
+  ]
+}

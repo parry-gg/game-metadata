@@ -1,0 +1,55 @@
+{
+  "name": "Giga Bowser",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-e5e5-7be7-824f-351ca33860b5.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-e65d-7005-ab72-c378e131ab89.png"
+      },
+      "metadata": {
+        "color": "red",
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-e6a7-77a6-9177-844f69a8b2d6.png"
+      },
+      "metadata": {
+        "color": "blue",
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-e6f9-7cad-9ccb-50c7eaadff18.png"
+      },
+      "metadata": {
+        "color": "black",
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-e769-767a-864a-56056bbe5ca3.png"
+      },
+      "metadata": {
+        "color": "green",
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-e7b2-73a8-b5a5-10baff637396.png"
+      },
+      "metadata": {
+        "color": "yellow",
+        "variant": 5
+      }
+    }
+  ]
+}

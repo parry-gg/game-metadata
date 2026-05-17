@@ -1,0 +1,64 @@
+{
+  "name": "Ebisumaru",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-d07b-7f6f-b8b2-62e06790068d.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-d0eb-7ede-bc7d-31d08f25a695.png"
+      },
+      "metadata": {
+        "color": "green",
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-d15f-7bb1-9c58-dd01a51c9f4a.png"
+      },
+      "metadata": {
+        "color": "pink",
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-d86c-71d0-aa4d-774275a19c0c.png"
+      },
+      "metadata": {
+        "color": "red",
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-d8da-74d1-a69d-bf8592e605d8.png"
+      },
+      "metadata": {
+        "color": "white",
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-d94b-796d-96b5-f1f4e54c32aa.png"
+      },
+      "metadata": {
+        "color": "yellow",
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-d9c4-7332-be71-80d4e9cb8663.png"
+      },
+      "metadata": {
+        "color": "naked",
+        "variant": 6
+      }
+    }
+  ]
+}

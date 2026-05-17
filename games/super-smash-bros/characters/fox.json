@@ -1,0 +1,73 @@
+{
+  "name": "Fox",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-dcc6-7020-be4c-2d9911dcbc13.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-dd2a-7c52-8049-fbc4b1ec4d32.png"
+      },
+      "metadata": {
+        "color": "orange",
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-ddc7-714c-a7ff-f5bb526c15cd.png"
+      },
+      "metadata": {
+        "color": "violet",
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-de18-76eb-a9ac-1cf6d2fe9735.png"
+      },
+      "metadata": {
+        "color": "green",
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-de73-7781-8c37-4611d7ba8ba9.png"
+      },
+      "metadata": {
+        "color": "black",
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-dee5-7def-b32c-9eb21cda040d.png"
+      },
+      "metadata": {
+        "color": "blue",
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-df3c-7f70-b1e6-d8d57575cc6f.png"
+      },
+      "metadata": {
+        "color": "white",
+        "variant": 6
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-df86-7ef7-b35c-a0071da42a43.png"
+      },
+      "metadata": {
+        "color": "pink",
+        "variant": 7
+      }
+    }
+  ]
+}

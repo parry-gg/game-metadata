@@ -1,0 +1,73 @@
+{
+  "name": "Lanky",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-f2bd-766c-8d2b-11468cfd92b2.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-f320-768d-8467-3404ffc028d4.png"
+      },
+      "metadata": {
+        "color": "red",
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-f36a-71ad-a9ab-cbab94adc0b7.png"
+      },
+      "metadata": {
+        "color": "green",
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-f3b4-74ac-8213-55600e84bafb.png"
+      },
+      "metadata": {
+        "color": "violet",
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-f423-7c12-b390-0bfd2f206925.png"
+      },
+      "metadata": {
+        "color": "yellow",
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-f499-7e16-8698-c5a55c7c1c00.png"
+      },
+      "metadata": {
+        "color": "dark blue",
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-f532-777a-8ec3-a99debdfb6c9.png"
+      },
+      "metadata": {
+        "color": "light blue",
+        "variant": 6
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-f59b-7593-b97b-1d046f8536ae.png"
+      },
+      "metadata": {
+        "color": "pink",
+        "variant": 7
+      }
+    }
+  ]
+}

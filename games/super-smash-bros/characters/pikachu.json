@@ -1,0 +1,73 @@
+{
+  "name": "Pikachu",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-2075-7827-a4e5-2d11d6e7269a.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-20ea-7a52-a313-391441b38666.png"
+      },
+      "metadata": {
+        "color": "red",
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-2152-7c2a-b94c-9efa11851955.png"
+      },
+      "metadata": {
+        "color": "blue",
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-21de-707f-8d4f-6557cdcfea96.png"
+      },
+      "metadata": {
+        "color": "green",
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-2234-73dd-b3a6-83e06ad9a3e2.png"
+      },
+      "metadata": {
+        "color": "yellow",
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-227d-7a7a-872f-77a40cae6a62.png"
+      },
+      "metadata": {
+        "color": "sewer",
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-22d0-7adc-8d8b-ad70dea9dd38.png"
+      },
+      "metadata": {
+        "color": "violet",
+        "variant": 6
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-2375-7c13-aad4-8a775a469ca7.png"
+      },
+      "metadata": {
+        "color": "pink",
+        "variant": 7
+      }
+    }
+  ]
+}

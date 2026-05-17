@@ -1,0 +1,55 @@
+{
+  "name": "Roy",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-23db-7f6e-817d-f194b09ce083.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-2434-718e-bdbb-8721a72f2f6c.png"
+      },
+      "metadata": {
+        "color": "red",
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-24b5-77fd-8ec0-ebe778ca9326.png"
+      },
+      "metadata": {
+        "color": "green",
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-2519-7b17-b02a-0184f1e5c4d3.png"
+      },
+      "metadata": {
+        "color": "blue",
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-257f-7dfd-b0c3-d470e27f770a.png"
+      },
+      "metadata": {
+        "color": "yellow",
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-25d4-73d6-9562-263934872f4b.png"
+      },
+      "metadata": {
+        "color": "black",
+        "variant": 5
+      }
+    }
+  ]
+}

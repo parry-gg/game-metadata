@@ -1,0 +1,64 @@
+{
+  "name": "Crash",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-ac3b-7021-959d-66eac7eb65aa.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-ac8f-7ab2-9f3f-29178bb45665.png"
+      },
+      "metadata": {
+        "color": "red",
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-acde-73d7-8a80-a6cd8bb33b09.png"
+      },
+      "metadata": {
+        "color": "green",
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-ad66-7d41-a812-ee02b896787e.png"
+      },
+      "metadata": {
+        "color": "white",
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-ade5-7015-8c24-df0f49ef0972.png"
+      },
+      "metadata": {
+        "color": "yellow",
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-ae4a-7e9f-a104-06bb721bb85b.png"
+      },
+      "metadata": {
+        "color": "black",
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-aec3-79bb-acad-1d1b374b4a8b.png"
+      },
+      "metadata": {
+        "color": "orange",
+        "variant": 6
+      }
+    }
+  ]
+}

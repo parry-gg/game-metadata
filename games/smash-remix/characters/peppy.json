@@ -1,0 +1,55 @@
+{
+  "name": "Peppy",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-1bf5-7f96-887e-9709ef3f45d0.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-1c4b-77e5-8a36-450ede87382f.png"
+      },
+      "metadata": {
+        "color": "red",
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-1c94-7694-828d-ffca29fa5a56.png"
+      },
+      "metadata": {
+        "color": "brown",
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-1d0e-791a-b014-1e37e90a6cea.png"
+      },
+      "metadata": {
+        "color": "light blue",
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-1fcb-7980-8470-af314a846f8a.png"
+      },
+      "metadata": {
+        "color": "black",
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-202c-7abe-8e0f-e9d949484893.png"
+      },
+      "metadata": {
+        "color": "orange",
+        "variant": 5
+      }
+    }
+  ]
+}

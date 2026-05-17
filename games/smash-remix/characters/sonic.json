@@ -1,0 +1,109 @@
+{
+  "name": "Sonic",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-2f43-72e6-9db1-2fc495a5bb72.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-2fba-768d-a1cc-d0c458ef2bb9.png"
+      },
+      "metadata": {
+        "color": "modern black",
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-303e-7769-abbd-8594bbdf5c80.png"
+      },
+      "metadata": {
+        "color": "modern red",
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-31b5-7bbc-8585-6ca8421780a0.png"
+      },
+      "metadata": {
+        "color": "modern green",
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-3219-781c-bc97-bfee8d3ab156.png"
+      },
+      "metadata": {
+        "color": "modern violet",
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-336b-76be-962d-cbd67968b34a.png"
+      },
+      "metadata": {
+        "color": "modern yellow",
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-33c4-7394-bbee-8ea48e53f713.png"
+      },
+      "metadata": {
+        "color": "classic blue",
+        "variant": 6
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-342c-78fb-a1a1-2b75aef7289e.png"
+      },
+      "metadata": {
+        "color": "classic yellow",
+        "variant": 7
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-3474-7a7e-898b-17a9b09d5c96.png"
+      },
+      "metadata": {
+        "color": "classic red",
+        "variant": 8
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-34c3-7dac-b8cd-8ce3c2fc5667.png"
+      },
+      "metadata": {
+        "color": "classic green",
+        "variant": 9
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-3524-708d-8993-3e8b21bb7e8c.png"
+      },
+      "metadata": {
+        "color": "classic pink",
+        "variant": 10
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-3a5f-7ae8-adac-806cb05cabf2.png"
+      },
+      "metadata": {
+        "color": "classic orange",
+        "variant": 11
+      }
+    }
+  ]
+}

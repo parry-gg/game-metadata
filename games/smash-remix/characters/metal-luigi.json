@@ -1,0 +1,55 @@
+{
+  "name": "Metal Luigi",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-0b56-7f01-a4d6-1e11755da8d7.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-0b9f-7266-b296-f30c074e4f69.png"
+      },
+      "metadata": {
+        "color": "red",
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-0bff-7237-bd5f-b2591a1b2e54.png"
+      },
+      "metadata": {
+        "color": "green",
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-0c8a-743f-a867-4cf2799c6b1c.png"
+      },
+      "metadata": {
+        "color": "blue",
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-0d94-76b5-964e-2489976de056.png"
+      },
+      "metadata": {
+        "color": "yellow",
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-0f21-7401-8991-babfd59730c0.png"
+      },
+      "metadata": {
+        "color": "pink",
+        "variant": 5
+      }
+    }
+  ]
+}
