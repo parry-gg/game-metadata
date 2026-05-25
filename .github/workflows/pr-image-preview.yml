@@ -1,0 +1,58 @@
+name: PR Image Preview
+
+# Uses pull_request_target so the GITHUB_TOKEN can write comments on PRs from
+# forks. To keep this safe, the workflow file, the script, and `npm ci` all run
+# from the BASE branch — only the PR's JSON content is read (via `git show`),
+# never executed.
+on:
+  pull_request_target:
+    paths:
+      - 'games/**/*.json'
+  workflow_dispatch:
+    inputs:
+      pr_number:
+        description: 'PR number to audit'
+        required: true
+        type: string
+
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  preview:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Resolve PR SHAs
+        id: pr
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            PR_NUMBER="${{ inputs.pr_number }}"
+            DATA=$(gh api "repos/${{ github.repository }}/pulls/$PR_NUMBER")
+            BASE_SHA=$(echo "$DATA" | jq -r .base.sha)
+            HEAD_SHA=$(echo "$DATA" | jq -r .head.sha)
+          else
+            PR_NUMBER="${{ github.event.pull_request.number }}"
+            BASE_SHA="${{ github.event.pull_request.base.sha }}"
+            HEAD_SHA="${{ github.event.pull_request.head.sha }}"
+          fi
+          echo "pr_number=$PR_NUMBER" >> "$GITHUB_OUTPUT"
+          echo "base_sha=$BASE_SHA" >> "$GITHUB_OUTPUT"
+          echo "head_sha=$HEAD_SHA" >> "$GITHUB_OUTPUT"
+      - name: Fetch PR head commit
+        run: git fetch origin "${{ steps.pr.outputs.head_sha }}"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: npm ci
+      - run: npx ts-node scripts/pr-image-preview.ts
+        env:
+          GITHUB_BASE_SHA: ${{ steps.pr.outputs.base_sha }}
+          GITHUB_HEAD_SHA: ${{ steps.pr.outputs.head_sha }}
+          PR_NUMBER: ${{ steps.pr.outputs.pr_number }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
