@@ -1,8 +1,10 @@
 import { execSync } from 'child_process';
 import { Octokit } from '@octokit/rest';
 
-const STICKY_MARKER = '<!-- pr-image-preview -->';
+const STICKY_PREFIX = '<!-- pr-image-preview';
 const CDN_URL_REGEX = /https:\/\/parrygg\.b-cdn\.net\/[^\s"'`)]+/g;
+// GitHub caps issue/PR comment bodies at 65,536 chars; leave headroom for markers.
+const MAX_BODY_BYTES = 60_000;
 
 interface FailedURL {
   url: string;
@@ -49,34 +51,76 @@ async function checkURL(url: string): Promise<FailedURL | null> {
   }
 }
 
-function buildBody(entries: FileEntry[], failures: FailedURL[]): string {
-  const lines: string[] = [STICKY_MARKER, '', '## Image preview'];
-
+function buildIntro(withNew: FileEntry[], failures: FailedURL[]): string {
+  const lines = ['## Image preview'];
   if (failures.length) {
     lines.push('', '### ❌ Fetch errors', '');
     for (const f of failures) lines.push(`- \`${f.url}\` — ${f.reason}`);
   }
-
-  const withNew = entries.filter((e) => e.newURLs.length > 0);
   if (withNew.length === 0) {
     lines.push('', '_No new CDN images in this PR._');
   } else {
-    for (const entry of withNew) {
-      lines.push('', `### \`${entry.path}\``, '');
-      for (const url of entry.newURLs) {
-        lines.push(`<img src="${url}" alt="" width="200" />`);
-      }
-    }
+    const total = withNew.reduce((n, e) => n + e.newURLs.length, 0);
+    lines.push(
+      '',
+      `_${total} new image(s) across ${withNew.length} file(s). Expand to review._`,
+    );
   }
-
   return lines.join('\n');
 }
 
-async function findStickyComment(
+function buildFileBlock(entry: FileEntry): string {
+  const count = entry.newURLs.length;
+  const lines = [
+    '<details>',
+    `<summary><code>${entry.path}</code> — ${count} image${count === 1 ? '' : 's'}</summary>`,
+    '',
+    ...entry.newURLs.map((url) => `<img src="${url}" alt="" width="200" />`),
+    '',
+    '</details>',
+  ];
+  return lines.join('\n');
+}
+
+function packBodies(intro: string, fileBlocks: string[]): string[] {
+  // Pack the intro + file blocks into bodies, splitting at file boundaries when
+  // a body would exceed GitHub's comment size limit.
+  const parts: string[] = [];
+  let current = intro;
+  for (const block of fileBlocks) {
+    const candidate = `${current}\n\n${block}`;
+    if (candidate.length > MAX_BODY_BYTES) {
+      parts.push(current);
+      current = block;
+    } else {
+      current = candidate;
+    }
+  }
+  parts.push(current);
+
+  const total = parts.length;
+  return parts.map((body, idx) => {
+    const part = idx + 1;
+    const marker = `<!-- pr-image-preview part=${part} -->`;
+    const header = total > 1 && idx > 0 ? `## Image preview (part ${part}/${total})\n\n` : '';
+    const footer = total > 1 ? `\n\n_Part ${part} of ${total}_` : '';
+    return `${marker}\n\n${header}${body}${footer}`;
+  });
+}
+
+function buildBodies(entries: FileEntry[], failures: FailedURL[]): string[] {
+  const withNew = entries.filter((e) => e.newURLs.length > 0);
+  const intro = buildIntro(withNew, failures);
+  const fileBlocks = withNew.map(buildFileBlock);
+  return packBodies(intro, fileBlocks);
+}
+
+async function syncStickyComments(
   octokit: Octokit,
   owner: string,
   repo: string,
   prNumber: number,
+  bodies: string[],
 ) {
   const comments = await octokit.paginate(octokit.rest.issues.listComments, {
     owner,
@@ -84,7 +128,34 @@ async function findStickyComment(
     issue_number: prNumber,
     per_page: 100,
   });
-  return comments.find((c) => c.body?.startsWith(STICKY_MARKER));
+  const existing = comments
+    .filter((c) => c.body?.startsWith(STICKY_PREFIX))
+    .sort((a, b) => a.id - b.id);
+
+  for (let i = 0; i < bodies.length; i++) {
+    if (i < existing.length) {
+      await octokit.rest.issues.updateComment({
+        owner,
+        repo,
+        comment_id: existing[i].id,
+        body: bodies[i],
+      });
+    } else {
+      await octokit.rest.issues.createComment({
+        owner,
+        repo,
+        issue_number: prNumber,
+        body: bodies[i],
+      });
+    }
+  }
+  for (let i = bodies.length; i < existing.length; i++) {
+    await octokit.rest.issues.deleteComment({
+      owner,
+      repo,
+      comment_id: existing[i].id,
+    });
+  }
 }
 
 async function main() {
@@ -116,10 +187,13 @@ async function main() {
     if (res) failures.push(res);
   }
 
-  const body = buildBody(entries, failures);
+  const bodies = buildBodies(entries, failures);
 
   if (dryRun) {
-    console.log(body);
+    bodies.forEach((b, i) => {
+      console.log(`\n===== Comment ${i + 1}/${bodies.length} (${b.length} chars) =====\n`);
+      console.log(b);
+    });
     console.log('\n---');
     console.log(`Failures: ${failures.length}`);
     return;
@@ -137,12 +211,7 @@ async function main() {
   const [owner, repo] = repoSlug.split('/');
   const octokit = new Octokit({ auth: token });
 
-  const existing = await findStickyComment(octokit, owner, repo, prNumber);
-  if (existing) {
-    await octokit.rest.issues.updateComment({ owner, repo, comment_id: existing.id, body });
-  } else {
-    await octokit.rest.issues.createComment({ owner, repo, issue_number: prNumber, body });
-  }
+  await syncStickyComments(octokit, owner, repo, prNumber, bodies);
 
   if (failures.length) {
     console.error(`Failing job: ${failures.length} unreachable image(s)`);
