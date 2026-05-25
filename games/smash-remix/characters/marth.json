@@ -1,0 +1,55 @@
+{
+  "name": "Marth",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-091f-7607-b910-bb3b25c6f789.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-0969-76fe-bd4c-38de833c43dd.png"
+      },
+      "metadata": {
+        "color": "red",
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-09c0-76bc-9000-27ee119ac2a0.png"
+      },
+      "metadata": {
+        "color": "green",
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-0a3a-787d-90a5-0e750ac95b1a.png"
+      },
+      "metadata": {
+        "color": "black",
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-0a8d-7865-a43d-87f9f259446e.png"
+      },
+      "metadata": {
+        "color": "white",
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-0aec-7a3d-956b-926419f66659.png"
+      },
+      "metadata": {
+        "color": "yellow",
+        "variant": 5
+      }
+    }
+  ]
+}

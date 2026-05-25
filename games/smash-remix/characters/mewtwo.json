@@ -1,0 +1,64 @@
+{
+  "name": "Mewtwo",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-129e-74b6-a6f0-91c14cef6794.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-1303-791b-b54c-edf97fe2eb4a.png"
+      },
+      "metadata": {
+        "color": "green",
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-136f-746d-ab2d-47255ddc69bb.png"
+      },
+      "metadata": {
+        "color": "red",
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-1433-7dff-b78a-6936c7d04f57.png"
+      },
+      "metadata": {
+        "color": "dark blue",
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-14d1-77d3-b343-36a130eaa6fe.png"
+      },
+      "metadata": {
+        "color": "yellow",
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-1537-7e17-80ff-9703beebef95.png"
+      },
+      "metadata": {
+        "color": "light blue",
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-1582-71fc-a615-28dba9626dea.png"
+      },
+      "metadata": {
+        "color": "pink",
+        "variant": 6
+      }
+    }
+  ]
+}

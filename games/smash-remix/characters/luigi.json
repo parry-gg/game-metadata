@@ -1,0 +1,73 @@
+{
+  "name": "Luigi",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-fb5e-7e06-ae6b-57d461540665.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-fbbb-7544-8442-2205f983ed3e.png"
+      },
+      "metadata": {
+        "color": "white",
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-fc26-77f1-9ff1-2872332e8bf5.png"
+      },
+      "metadata": {
+        "color": "light blue",
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-fca3-7be5-9c81-b9b4d324f678.png"
+      },
+      "metadata": {
+        "color": "pink",
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-fcf5-7a37-8112-8cca4535a680.png"
+      },
+      "metadata": {
+        "color": "violet",
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-fd57-7fd3-be14-04207d04120e.png"
+      },
+      "metadata": {
+        "color": "dark blue",
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-fdae-734d-9be1-954e2b628e1d.png"
+      },
+      "metadata": {
+        "color": "yellow",
+        "variant": 6
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-fe34-7f82-ba70-566e3d2436a7.png"
+      },
+      "metadata": {
+        "color": "orange",
+        "variant": 7
+      }
+    }
+  ]
+}

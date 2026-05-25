@@ -1,0 +1,55 @@
+{
+  "name": "Mad Piano",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-fe99-77a7-985e-7118a5cf8043.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-ffc6-7929-91cf-43e07bf9dfab.png"
+      },
+      "metadata": {
+        "color": "red",
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-0040-7a55-b5ef-030853befe5b.png"
+      },
+      "metadata": {
+        "color": "yellow",
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-00a5-7aa4-a98d-43f60b972777.png"
+      },
+      "metadata": {
+        "color": "light blue",
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-0124-70d7-84fe-6ff96434de40.png"
+      },
+      "metadata": {
+        "color": "green",
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-01b7-7730-94d6-4ca861c585b7.png"
+      },
+      "metadata": {
+        "color": "white",
+        "variant": 5
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Kirby",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-efd8-7484-bbe2-6d76cca0233f.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-f03c-78ce-86f3-5c21e78708cc.png"
+      },
+      "metadata": {
+        "color": "yellow",
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-f0a7-7f52-88af-92f6b29ad2af.png"
+      },
+      "metadata": {
+        "color": "light blue",
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-f127-752e-8b47-1e0bc70221c3.png"
+      },
+      "metadata": {
+        "color": "red",
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-f1b2-79c9-adba-01ebf3adc5d0.png"
+      },
+      "metadata": {
+        "color": "green",
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-f205-7522-ab00-4ebfa3b06fdd.png"
+      },
+      "metadata": {
+        "color": "white",
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-f24f-7fc7-b684-f912b74884c5.png"
+      },
+      "metadata": {
+        "color": "dark blue",
+        "variant": 6
+      }
+    }
+  ]
+}

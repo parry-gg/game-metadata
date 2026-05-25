@@ -1,0 +1,73 @@
+{
+  "name": "Mario",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-04a5-71ac-ab2c-83c5d9ba37ad.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-051c-7fd5-8f0b-10ec6eca7f43.png"
+      },
+      "metadata": {
+        "color": "yellow",
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-0608-7ce8-9dd1-8a31c6c08c82.png"
+      },
+      "metadata": {
+        "color": "brown",
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-0675-70b1-90ae-2d22c5cb3602.png"
+      },
+      "metadata": {
+        "color": "blue",
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-06d4-78df-b55a-01f396ef3ed3.png"
+      },
+      "metadata": {
+        "color": "green",
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-080c-7bff-8fc0-e351d6e399e0.png"
+      },
+      "metadata": {
+        "color": "white",
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-086e-7d8a-86dd-a685e472d0e2.png"
+      },
+      "metadata": {
+        "color": "red",
+        "variant": 6
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-08b7-7ad6-b992-df158d139c75.png"
+      },
+      "metadata": {
+        "color": "bee",
+        "variant": 7
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Sheik",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-29b7-76df-93d2-556af5482559.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-2a27-707a-9ee8-4f0c217575e9.png"
+      },
+      "metadata": {
+        "color": "red",
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-2a7e-7c4b-ab05-94d04598ddda.png"
+      },
+      "metadata": {
+        "color": "green",
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-2ac8-73ce-8881-551bff39d455.png"
+      },
+      "metadata": {
+        "color": "violet",
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-2b2c-73a5-949c-2467a5353163.png"
+      },
+      "metadata": {
+        "color": "black",
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-2b74-7274-9cd3-6a0134c512f5.png"
+      },
+      "metadata": {
+        "color": "white",
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-2bbe-7681-8502-53aa81a0de94.png"
+      },
+      "metadata": {
+        "color": "yellow",
+        "variant": 6
+      }
+    }
+  ]
+}

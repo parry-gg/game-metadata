@@ -1,0 +1,64 @@
+{
+  "name": "Marina",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-021a-7cd5-b2ba-3f8da98d0b03.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-0262-71a3-9079-33e428027628.png"
+      },
+      "metadata": {
+        "color": "red/blonde",
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-02ff-7f85-96ba-4ec1e303f5f6.png"
+      },
+      "metadata": {
+        "color": "blue",
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-034a-7bf6-b543-a051daeabe51.png"
+      },
+      "metadata": {
+        "color": "green",
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-03ab-7669-bc36-a38a5f32d25b.png"
+      },
+      "metadata": {
+        "color": "violet",
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-03f3-7fcc-a41d-1fdca2780d46.png"
+      },
+      "metadata": {
+        "color": "yellow",
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-045b-76b6-bf23-5abb6502fb6b.png"
+      },
+      "metadata": {
+        "color": "yellow/red",
+        "variant": 6
+      }
+    }
+  ]
+}

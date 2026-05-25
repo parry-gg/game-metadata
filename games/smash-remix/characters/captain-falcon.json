@@ -1,0 +1,73 @@
+{
+  "name": "Captain Falcon",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-a5e4-7e32-804c-690b1705aaec.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-a66a-778f-8bf0-b3cc4413bd1b.png"
+      },
+      "metadata": {
+        "color": "red",
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-a6ce-7698-98c7-5505370f6a01.png"
+      },
+      "metadata": {
+        "color": "green",
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-a729-74c1-9b0a-7295c8197efb.png"
+      },
+      "metadata": {
+        "color": "pink",
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-a7cc-7ffb-b4a3-2f03cd1a1a4c.png"
+      },
+      "metadata": {
+        "color": "black",
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-a842-781a-9395-c76f837d7cc6.png"
+      },
+      "metadata": {
+        "color": "blue",
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-a8a9-7210-9ced-f9dcd4805b41.png"
+      },
+      "metadata": {
+        "color": "yellow",
+        "variant": 6
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-a90e-7896-86c9-785d9e05c30f.png"
+      },
+      "metadata": {
+        "color": "red/white",
+        "variant": 7
+      }
+    }
+  ]
+}

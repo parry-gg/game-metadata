@@ -1,0 +1,64 @@
+{
+  "name": "Lucas",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-f869-7282-a6f0-d23c830b5ec1.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-f939-73ce-97dd-0253bf1705ec.png"
+      },
+      "metadata": {
+        "color": "orange",
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-f9b3-743a-b723-02250eba7425.png"
+      },
+      "metadata": {
+        "color": "pink",
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-fa00-70a2-8f5f-e70392b2f23a.png"
+      },
+      "metadata": {
+        "color": "blue",
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-fa4b-7549-949b-97eba38d99a3.png"
+      },
+      "metadata": {
+        "color": "brown",
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-fa9c-7b5c-9f73-14faa1521069.png"
+      },
+      "metadata": {
+        "color": "green",
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-fb0b-7a5a-b519-e7756ce836ca.png"
+      },
+      "metadata": {
+        "color": "red",
+        "variant": 6
+      }
+    }
+  ]
+}

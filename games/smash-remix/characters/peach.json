@@ -1,0 +1,82 @@
+{
+  "name": "Peach",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-18c7-77b2-9317-52db3d4c1916.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-1910-7615-8d15-52a622f49040.png"
+      },
+      "metadata": {
+        "color": "orange",
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-1973-72e8-8232-d76fd30181b9.png"
+      },
+      "metadata": {
+        "color": "red",
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-19c9-7205-8e15-71fa7896d8a6.png"
+      },
+      "metadata": {
+        "color": "blue",
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-1a17-78f4-9287-ca32403aaab5.png"
+      },
+      "metadata": {
+        "color": "green",
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-1a7c-7b7e-a168-a437d7e5cc4b.png"
+      },
+      "metadata": {
+        "color": "brunette",
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-1afa-7077-8b9d-76195d3fd678.png"
+      },
+      "metadata": {
+        "color": "pink",
+        "variant": 6
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-1b48-7a38-aa71-049fe2ad11ae.png"
+      },
+      "metadata": {
+        "color": "white",
+        "variant": 7
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-1b9b-7005-bf30-5f803600068d.png"
+      },
+      "metadata": {
+        "color": "bee",
+        "variant": 8
+      }
+    }
+  ]
+}

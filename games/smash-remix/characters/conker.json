@@ -1,0 +1,64 @@
+{
+  "name": "Conker",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-a97e-720c-8708-92376920742b.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-a9dd-70d2-b0af-509fa75de065.png"
+      },
+      "metadata": {
+        "color": "pink",
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-aa45-7d53-ab05-c4a62500c1e2.png"
+      },
+      "metadata": {
+        "color": "red",
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-aaaf-7ae0-ac7d-041de3c4d62a.png"
+      },
+      "metadata": {
+        "color": "green",
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-ab06-7d6b-a560-6cfc1dce8ba4.png"
+      },
+      "metadata": {
+        "color": "black",
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-ab63-713f-a01a-39858aa581dd.png"
+      },
+      "metadata": {
+        "color": "white",
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-abe6-7340-8e0e-2ed06180b77f.png"
+      },
+      "metadata": {
+        "color": "yellow",
+        "variant": 6
+      }
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "name": "Wario",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-3d70-7cef-93dc-5e0834bc19d7.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-3e23-717d-9fcc-71d1abf86f38.png"
+      },
+      "metadata": {
+        "color": "red",
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-3e86-70ba-bef6-def6306b3de2.png"
+      },
+      "metadata": {
+        "color": "teal",
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-3efb-7b2d-8cb9-84991f135db7.png"
+      },
+      "metadata": {
+        "color": "blue/pink",
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-3f69-748a-9cbd-544ff69e154f.png"
+      },
+      "metadata": {
+        "color": "light green",
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-3ffa-748a-84ff-ccec1ec5f207.png"
+      },
+      "metadata": {
+        "color": "violet",
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-4053-7b18-962e-d25a7e21a580.png"
+      },
+      "metadata": {
+        "color": "green",
+        "variant": 6
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-412c-7d45-b4d8-42a34830d05a.png"
+      },
+      "metadata": {
+        "color": "black",
+        "variant": 7
+      }
+    }
+  ]
+}

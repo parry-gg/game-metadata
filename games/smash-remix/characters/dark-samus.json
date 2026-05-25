@@ -1,0 +1,73 @@
+{
+  "name": "Dark Samus",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-af44-798c-a557-be6176445c7a.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-af9f-72d9-9534-8d56e49cf88f.png"
+      },
+      "metadata": {
+        "color": "blue",
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-b00e-7e86-90d4-0992e03241fa.png"
+      },
+      "metadata": {
+        "color": "brown",
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-b063-76ad-82e0-971874ed34f9.png"
+      },
+      "metadata": {
+        "color": "white",
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-b0bc-75e2-8535-a505da6e99aa.png"
+      },
+      "metadata": {
+        "color": "violet",
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-b11f-782b-bcb4-5befa2ad3b5e.png"
+      },
+      "metadata": {
+        "color": "gray",
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-b18d-726a-84fe-15b7662e12ab.png"
+      },
+      "metadata": {
+        "color": "yellow",
+        "variant": 6
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-b1f1-7bc5-89e7-f0db22c86372.png"
+      },
+      "metadata": {
+        "color": "green",
+        "variant": 7
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Super Sonic",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-3ac4-76d0-99a5-10c4e2f77da9.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-3b34-7d08-ab57-548b069f89b5.png"
+      },
+      "metadata": {
+        "color": "light blue",
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-3b97-7fd9-8d5b-7601021799fa.png"
+      },
+      "metadata": {
+        "color": "green",
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-3bf2-7bb4-b0ac-37a04e199f71.png"
+      },
+      "metadata": {
+        "color": "red",
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-3c4b-7be4-9545-6dcb902a6982.png"
+      },
+      "metadata": {
+        "color": "violet",
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36ea-3ccd-7433-9495-1129d3cc90b4.png"
+      },
+      "metadata": {
+        "color": "pink",
+        "variant": 5
+      }
+    }
+  ]
+}

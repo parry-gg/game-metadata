@@ -1,0 +1,82 @@
+{
+  "name": "Jigglypuff",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-eb37-7051-b3cd-4b009fac1f0c.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-eb84-7338-afea-b697fa257b87.png"
+      },
+      "metadata": {
+        "color": "red",
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-ebf8-71fb-9247-7f7e19df83e5.png"
+      },
+      "metadata": {
+        "color": "blue",
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-ec96-744a-9073-f0654f6c58a2.png"
+      },
+      "metadata": {
+        "color": "green",
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-ecfe-7574-9eb4-3b918709a2a2.png"
+      },
+      "metadata": {
+        "color": "mint",
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-ed49-7af6-9351-9e74823bf121.png"
+      },
+      "metadata": {
+        "color": "yellow",
+        "variant": 5
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-edd6-7191-a629-1aea35cdb968.png"
+      },
+      "metadata": {
+        "color": "violet",
+        "variant": 6
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-ee21-768e-be65-e6b5be9f7fef.png"
+      },
+      "metadata": {
+        "color": "black",
+        "variant": 7
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-ef36-7d28-bfc3-993ef3ecf1f5.png"
+      },
+      "metadata": {
+        "color": "orange",
+        "variant": 8
+      }
+    }
+  ]
+}

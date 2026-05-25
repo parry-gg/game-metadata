@@ -1,0 +1,55 @@
+{
+  "name": "Dragon King",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-cdc4-7b8b-b435-180ecf08e494.png"
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-ce15-7b3b-8341-0cf862e5b812.png"
+      },
+      "metadata": {
+        "color": "green",
+        "variant": 1
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-ceb2-7ec4-8dbe-f57f131e7ac8.png"
+      },
+      "metadata": {
+        "color": "white",
+        "variant": 2
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-cf1e-7ebe-8f81-866ac06c2d82.png"
+      },
+      "metadata": {
+        "color": "blue",
+        "variant": 3
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-cf7f-796e-9b2c-12e00af1dc12.png"
+      },
+      "metadata": {
+        "color": "yellow",
+        "variant": 4
+      }
+    },
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019e36e9-cfe8-70e1-9442-28422bb87759.png"
+      },
+      "metadata": {
+        "color": "pepsi",
+        "variant": 5
+      }
+    }
+  ]
+}
