@@ -6,12 +6,13 @@
   "scripts": {
     "upload": "ts-node scripts/upload-assets.ts",
     "upload:dry-run": "ts-node scripts/upload-assets.ts --dry-run",
-    "upload:game": "ts-node scripts/upload-assets.ts --game"
+    "upload:game": "ts-node scripts/upload-assets.ts --game",
+    "pr-preview": "ts-node scripts/pr-image-preview.ts"
   },
-  "dependencies": {},
   "devDependencies": {
+    "@octokit/rest": "^22.0.1",
     "@types/node": "^20.0.0",
-    "typescript": "^5.0.0",
-    "ts-node": "^10.9.0"
+    "ts-node": "^10.9.0",
+    "typescript": "^5.0.0"
   }
 }
