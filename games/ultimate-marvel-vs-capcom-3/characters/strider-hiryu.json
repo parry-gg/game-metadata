@@ -1,0 +1,10 @@
+{
+  "name": "Strider Hiryu",
+  "variants": [
+    {
+      "images": {
+        "icon": "https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/umvc3/base_files/icon/Hiryu_00.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Ryu",
+  "variants": [
+    {
+      "images": {
+        "icon": "https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/ssf2x/base_files/icon/ryu_0.png"
+      }
+    }
+  ]
+}

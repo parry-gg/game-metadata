@@ -1,0 +1,10 @@
+{
+  "name": "Condor Heads",
+  "variants": [
+    {
+      "images": {
+        "icon": "https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/breakers/base_files/icon/Condor_0.png"
+      }
+    }
+  ]
+}

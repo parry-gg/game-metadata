@@ -1,0 +1,10 @@
+{
+  "name": "Gill",
+  "variants": [
+    {
+      "images": {
+        "icon": "https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/sf3ts/base_files/icon/icon_Gill_0.png"
+      }
+    }
+  ]
+}

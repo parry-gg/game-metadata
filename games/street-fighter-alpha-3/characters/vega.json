@@ -1,0 +1,10 @@
+{
+  "name": "Vega",
+  "variants": [
+    {
+      "images": {
+        "icon": "https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/sfalpha3/base_files/icon/balrog_0.png"
+      }
+    }
+  ]
+}

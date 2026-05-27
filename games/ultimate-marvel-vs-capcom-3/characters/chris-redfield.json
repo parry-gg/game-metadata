@@ -1,0 +1,10 @@
+{
+  "name": "Chris Redfield",
+  "variants": [
+    {
+      "images": {
+        "icon": "https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/umvc3/base_files/icon/Chris_00.png"
+      }
+    }
+  ]
+}

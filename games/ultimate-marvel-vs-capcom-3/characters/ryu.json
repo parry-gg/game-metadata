@@ -1,0 +1,10 @@
+{
+  "name": "Ryu",
+  "variants": [
+    {
+      "images": {
+        "icon": "https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/umvc3/base_files/icon/Ryu_00.png"
+      }
+    }
+  ]
+}

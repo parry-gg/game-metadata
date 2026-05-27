@@ -1,0 +1,10 @@
+{
+  "name": "Ibuki",
+  "variants": [
+    {
+      "images": {
+        "icon": "https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/sf3ts/base_files/icon/icon_Ibuki_0.png"
+      }
+    }
+  ]
+}
