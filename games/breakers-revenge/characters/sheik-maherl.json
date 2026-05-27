@@ -1,0 +1,10 @@
+{
+  "name": "Sheik Maherl",
+  "variants": [
+    {
+      "images": {
+        "icon": "https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/breakers/base_files/icon/Maheri_0.png"
+      }
+    }
+  ]
+}

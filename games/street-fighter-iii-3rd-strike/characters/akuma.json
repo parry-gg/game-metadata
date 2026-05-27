@@ -1,0 +1,10 @@
+{
+  "name": "Akuma",
+  "variants": [
+    {
+      "images": {
+        "icon": "https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/sf3ts/base_files/icon/icon_Akuma_0.png"
+      }
+    }
+  ]
+}

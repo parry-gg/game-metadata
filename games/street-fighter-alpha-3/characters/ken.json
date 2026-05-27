@@ -1,0 +1,10 @@
+{
+  "name": "Ken",
+  "variants": [
+    {
+      "images": {
+        "icon": "https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/sfalpha3/base_files/icon/ken_0.png"
+      }
+    }
+  ]
+}
