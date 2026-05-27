@@ -1,0 +1,10 @@
+{
+  "name": "Max Hurricane",
+  "variants": [
+    {
+      "images": {
+        "icon": "https://raw.githubusercontent.com/joaorb64/StreamHelperAssets/main/games/windjammers2/base_files/icon/icon_max_0.png"
+      }
+    }
+  ]
+}
