@@ -1,0 +1,10 @@
+{
+  "name": "Chef Kawasaki",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ea93a-fad6-70a3-8c5a-566ea0644042.png"
+      }
+    }
+  ]
+}

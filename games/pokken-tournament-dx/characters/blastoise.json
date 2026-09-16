@@ -1,0 +1,10 @@
+{
+  "name": "Blastoise",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ea955-b427-78b1-851e-e4e12a05ff5d.png"
+      }
+    }
+  ]
+}

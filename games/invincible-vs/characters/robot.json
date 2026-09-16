@@ -1,0 +1,10 @@
+{
+  "name": "Robot",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019f14ac-af9e-7a39-9218-7c5ac0648d0c.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Archetype: Earth",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ea93a-a5bc-70a9-8b30-2c1572965e16.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Eagle",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ea939-0f36-7c7f-9740-548565ff9235.png"
+      }
+    }
+  ]
+}

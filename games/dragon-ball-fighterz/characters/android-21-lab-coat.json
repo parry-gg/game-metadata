@@ -1,0 +1,10 @@
+{
+  "name": "Android 21 (Lab Coat)",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ea937-869f-74dd-b4f2-5323723bbd0c.png"
+      }
+    }
+  ]
+}

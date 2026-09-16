@@ -1,0 +1,10 @@
+{
+  "name": "Garuda",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019f2799-2ff1-7dc1-9fcd-da239ab4024a.png"
+      }
+    }
+  ]
+}

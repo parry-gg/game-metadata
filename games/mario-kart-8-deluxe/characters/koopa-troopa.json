@@ -1,0 +1,10 @@
+{
+  "name": "Koopa Troopa",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ea934-1a2d-7ecb-85f8-8f7121696928.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Donkey Kong",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ea939-f7be-7ee7-9079-2752bf2c6ecf.png"
+      }
+    }
+  ]
+}

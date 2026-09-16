@@ -1,0 +1,10 @@
+{
+  "name": "Pikachu",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ea955-a1c5-7d37-b57a-7f865e57af5e.png"
+      }
+    }
+  ]
+}

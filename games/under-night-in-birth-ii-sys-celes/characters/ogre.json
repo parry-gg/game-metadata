@@ -1,0 +1,10 @@
+{
+  "name": "Ogre",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ea938-b2c1-747b-8d9f-64e2b35695ca.png"
+      }
+    }
+  ]
+}

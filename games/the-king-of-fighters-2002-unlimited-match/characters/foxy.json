@@ -1,0 +1,10 @@
+{
+  "name": "Foxy",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019f27a5-8e32-76ce-87d5-3a7f7c521190.png"
+      }
+    }
+  ]
+}

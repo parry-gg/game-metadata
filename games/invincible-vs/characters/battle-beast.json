@@ -1,0 +1,10 @@
+{
+  "name": "Battle Beast",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019f14ac-a7a0-73a4-ae1b-e7e758b978c4.png"
+      }
+    }
+  ]
+}

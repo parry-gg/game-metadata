@@ -1,0 +1,10 @@
+{
+  "name": "Tanooki Mario",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ea934-4860-771e-8def-4c31921c64a3.png"
+      }
+    }
+  ]
+}

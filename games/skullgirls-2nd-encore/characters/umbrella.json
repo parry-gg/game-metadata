@@ -1,0 +1,10 @@
+{
+  "name": "Umbrella",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019f7101-c210-7823-a9fa-c7ffbf015756.png"
+      }
+    }
+  ]
+}

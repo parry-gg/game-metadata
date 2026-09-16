@@ -1,0 +1,10 @@
+{
+  "name": "Bowser",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ea93e-4daf-74d0-824d-749c176349c2.png"
+      }
+    }
+  ]
+}

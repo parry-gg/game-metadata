@@ -1,0 +1,10 @@
+{
+  "name": "Birdo",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ea93e-4a4b-7a94-9cc6-0cd76eaca213.png"
+      }
+    }
+  ]
+}

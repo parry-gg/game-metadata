@@ -1,0 +1,10 @@
+{
+  "name": "Rock",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019f23a8-6eab-7994-8090-bbd27c07cf44.png"
+      }
+    }
+  ]
+}

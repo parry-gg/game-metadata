@@ -1,0 +1,10 @@
+{
+  "name": "King Dedede",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ea93a-efb3-7096-bf00-a0b96899be2e.png"
+      }
+    }
+  ]
+}

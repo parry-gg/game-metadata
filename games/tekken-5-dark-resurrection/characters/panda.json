@@ -1,0 +1,10 @@
+{
+  "name": "Panda",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019f27a8-1b5c-7b4f-92a8-9ec9c4c912df.png"
+      }
+    }
+  ]
+}

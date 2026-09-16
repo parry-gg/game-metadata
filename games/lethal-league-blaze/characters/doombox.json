@@ -1,0 +1,10 @@
+{
+  "name": "Doombox",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/01a08b86-6d6f-797c-9cdb-96299cd961a7.png"
+      }
+    }
+  ]
+}

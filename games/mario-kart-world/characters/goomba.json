@@ -1,0 +1,10 @@
+{
+  "name": "Goomba",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ea93e-7a8f-773b-88eb-886d725df1fb.png"
+      }
+    }
+  ]
+}

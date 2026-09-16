@@ -1,0 +1,10 @@
+{
+  "name": "Pet Shop",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019f27aa-25b5-7768-a476-168d1b2a67b4.png"
+      }
+    }
+  ]
+}

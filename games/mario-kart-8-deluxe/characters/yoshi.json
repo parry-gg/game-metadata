@@ -1,0 +1,10 @@
+{
+  "name": "Yoshi",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ea934-63f4-7344-a2ec-c7eb9df4902b.png"
+      }
+    }
+  ]
+}

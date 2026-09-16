@@ -1,0 +1,10 @@
+{
+  "name": "Penguin",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ea93e-ac0e-7e5f-b86b-c9d5ad185cc2.png"
+      }
+    }
+  ]
+}

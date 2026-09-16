@@ -1,0 +1,10 @@
+{
+  "name": "Merkava",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ea938-5a59-7b02-a867-c80195fb7377.png"
+      }
+    }
+  ]
+}

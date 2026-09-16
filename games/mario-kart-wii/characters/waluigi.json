@@ -1,0 +1,10 @@
+{
+  "name": "Waluigi",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ea93a-1251-773d-973b-ce19924ccbd6.png"
+      }
+    }
+  ]
+}

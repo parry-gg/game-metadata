@@ -1,0 +1,10 @@
+{
+  "name": "Bardock",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ea937-0263-748c-b786-d37eb0a55562.png"
+      }
+    }
+  ]
+}

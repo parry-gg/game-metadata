@@ -1,0 +1,10 @@
+{
+  "name": "Android 16",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019f70fe-95f7-76ff-a04d-68285a72e462.png"
+      }
+    }
+  ]
+}

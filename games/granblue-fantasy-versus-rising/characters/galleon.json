@@ -1,0 +1,10 @@
+{
+  "name": "Galleon",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019f14ac-7de3-74c0-9e56-9000193b86a2.png"
+      }
+    }
+  ]
+}

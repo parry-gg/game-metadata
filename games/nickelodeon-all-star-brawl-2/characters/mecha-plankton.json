@@ -1,0 +1,10 @@
+{
+  "name": "Mecha Plankton",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/01a08bac-3e7c-7191-a29a-4ea61083ecf4.png"
+      }
+    }
+  ]
+}

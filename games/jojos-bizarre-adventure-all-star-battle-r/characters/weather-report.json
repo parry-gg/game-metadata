@@ -1,0 +1,10 @@
+{
+  "name": "Weather Report",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019f27aa-4b51-7c5f-a4f3-10f7b9b35d94.png"
+      }
+    }
+  ]
+}

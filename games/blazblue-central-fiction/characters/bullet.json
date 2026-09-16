@@ -1,0 +1,10 @@
+{
+  "name": "Bullet",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ea93d-ae95-74e7-99f3-0ee81ef573ef.png"
+      }
+    }
+  ]
+}

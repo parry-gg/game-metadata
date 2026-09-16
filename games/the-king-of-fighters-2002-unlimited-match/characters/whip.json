@@ -1,0 +1,10 @@
+{
+  "name": "Whip",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019f27a5-82c9-7a3b-80c4-40177590ac32.png"
+      }
+    }
+  ]
+}

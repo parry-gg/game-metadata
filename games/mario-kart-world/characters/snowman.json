@@ -1,0 +1,10 @@
+{
+  "name": "Snowman",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ea93e-cb91-72cc-a7d9-545c78e10f60.png"
+      }
+    }
+  ]
+}

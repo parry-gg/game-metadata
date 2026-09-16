@@ -1,0 +1,10 @@
+{
+  "name": "Rocksteady",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/01a08bac-8596-7022-a3d0-a34a0e46fa4a.png"
+      }
+    }
+  ]
+}

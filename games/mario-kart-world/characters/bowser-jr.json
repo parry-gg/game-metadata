@@ -1,0 +1,10 @@
+{
+  "name": "Bowser Jr.",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ea93e-511b-7592-8d6c-9b122ce9c815.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Lizardman",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/01a08b86-e1be-7e55-9d06-02fa949e4e89.png"
+      }
+    }
+  ]
+}

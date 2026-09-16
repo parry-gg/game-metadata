@@ -1,0 +1,10 @@
+{
+  "name": "Waddle Dee",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ea93b-1302-7bfb-814a-e00b3a5fbf0b.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Blitztank",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019f7101-ecf6-7409-8f12-ff0f988076f5.png"
+      }
+    }
+  ]
+}

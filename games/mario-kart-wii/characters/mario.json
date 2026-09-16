@@ -1,0 +1,10 @@
+{
+  "name": "Mario",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ea93a-076c-74ed-9325-840d76a2ee43.png"
+      }
+    }
+  ]
+}

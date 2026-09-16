@@ -1,0 +1,10 @@
+{
+  "name": "Nitro",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/01a08b86-80cf-7903-a4b1-d59a7aabaf64.png"
+      }
+    }
+  ]
+}

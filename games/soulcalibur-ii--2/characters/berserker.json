@@ -1,0 +1,10 @@
+{
+  "name": "Berserker",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/01a08b86-c4b9-71ae-9f9e-29a637aef643.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Charizard",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ea955-808a-79a0-97db-b6118fef9a1a.png"
+      }
+    }
+  ]
+}

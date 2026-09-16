@@ -1,0 +1,10 @@
+{
+  "name": "Spawn",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/01a08b86-f412-75ba-a73c-16e521e7d7b7.png"
+      }
+    }
+  ]
+}

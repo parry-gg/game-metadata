@@ -1,0 +1,10 @@
+{
+  "name": "Machamp",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ea955-9d42-77ca-8579-2a82b81ca36f.png"
+      }
+    }
+  ]
+}

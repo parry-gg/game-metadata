@@ -1,0 +1,10 @@
+{
+  "name": "Switch",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/01a08b86-87c9-74c2-afea-ee8e27b23e00.png"
+      }
+    }
+  ]
+}

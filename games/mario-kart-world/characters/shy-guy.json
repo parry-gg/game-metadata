@@ -1,0 +1,10 @@
+{
+  "name": "Shy Guy",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ea93e-c3d6-77f2-a91b-8f800395b74e.png"
+      }
+    }
+  ]
+}

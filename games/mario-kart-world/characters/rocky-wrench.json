@@ -1,0 +1,10 @@
+{
+  "name": "Rocky Wrench",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ea93e-bca4-7e3a-9432-17737ffd964d.png"
+      }
+    }
+  ]
+}

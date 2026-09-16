@@ -1,0 +1,10 @@
+{
+  "name": "Meta Knight",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ea93a-f228-776e-8cfc-ff5a86f7c08b.png"
+      }
+    }
+  ]
+}

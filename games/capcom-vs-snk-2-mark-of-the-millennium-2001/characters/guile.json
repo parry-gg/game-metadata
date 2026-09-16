@@ -1,0 +1,10 @@
+{
+  "name": "Guile",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019f23a8-0e0f-7248-b3df-86cfb2bc441d.png"
+      }
+    }
+  ]
+}

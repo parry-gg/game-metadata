@@ -1,0 +1,10 @@
+{
+  "name": "Android 21",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ea937-0043-7175-a4ce-89e58bf0d17f.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Cinder",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ea938-c209-7f2d-a859-90f9246f3f73.png"
+      }
+    }
+  ]
+}

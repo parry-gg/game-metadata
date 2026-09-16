@@ -1,0 +1,10 @@
+{
+  "name": "Metal Mario",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ea934-3220-79a4-a75b-5c73a52a86dc.png"
+      }
+    }
+  ]
+}

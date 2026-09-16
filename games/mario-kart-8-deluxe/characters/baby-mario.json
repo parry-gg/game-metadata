@@ -1,0 +1,10 @@
+{
+  "name": "Baby Mario",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ea933-d946-7f22-8af0-3579af5af1f7.png"
+      }
+    }
+  ]
+}

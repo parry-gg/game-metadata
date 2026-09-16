@@ -1,0 +1,10 @@
+{
+  "name": "Piranha Plant",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ea93e-b3d4-7bcc-a880-ce8710fcef69.png"
+      }
+    }
+  ]
+}

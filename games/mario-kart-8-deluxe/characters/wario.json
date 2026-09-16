@@ -1,0 +1,10 @@
+{
+  "name": "Wario",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ea934-5d3e-7257-9c79-4071b5e54877.png"
+      }
+    }
+  ]
+}

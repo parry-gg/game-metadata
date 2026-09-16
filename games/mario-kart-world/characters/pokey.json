@@ -1,0 +1,10 @@
+{
+  "name": "Pokey",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ea93e-b77d-7933-98bf-978c0610c12b.png"
+      }
+    }
+  ]
+}

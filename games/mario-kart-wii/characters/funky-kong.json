@@ -1,0 +1,10 @@
+{
+  "name": "Funky Kong",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ea939-fe3f-7684-90ea-505459418133.png"
+      }
+    }
+  ]
+}

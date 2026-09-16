@@ -1,0 +1,10 @@
+{
+  "name": "Toad",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ea93a-0dca-792a-bbd1-7fa3d33d1a39.png"
+      }
+    }
+  ]
+}

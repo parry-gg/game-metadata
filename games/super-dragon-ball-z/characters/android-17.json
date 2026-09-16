@@ -1,0 +1,10 @@
+{
+  "name": "Android 17",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019f70fe-9b25-7938-8aad-468f12308ab2.png"
+      }
+    }
+  ]
+}

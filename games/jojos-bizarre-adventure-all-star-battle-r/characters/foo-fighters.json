@@ -1,0 +1,10 @@
+{
+  "name": "Foo Fighters",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019f27a9-cb69-7aac-ac65-5aa0b5e36483.png"
+      }
+    }
+  ]
+}

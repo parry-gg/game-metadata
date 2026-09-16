@@ -1,0 +1,10 @@
+{
+  "name": "Cow",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ea93e-664f-7b29-969d-40ff76e18b86.png"
+      }
+    }
+  ]
+}

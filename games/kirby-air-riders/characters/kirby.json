@@ -1,0 +1,10 @@
+{
+  "name": "Kirby",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ea93a-ecc0-70eb-acb2-0e1fcf0eef9e.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Dolphin",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ea93e-6d2e-7918-9fe0-84e394413cb2.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Pikachu Libre",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ea955-a3d2-74ba-85da-13389728fc61.png"
+      }
+    }
+  ]
+}

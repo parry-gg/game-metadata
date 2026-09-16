@@ -1,0 +1,10 @@
+{
+  "name": "Cammy",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019f23a7-f8f9-7a61-bc96-11e7e376b725.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Toadette",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ea93a-1015-7e28-92dd-f96e6d10964a.png"
+      }
+    }
+  ]
+}

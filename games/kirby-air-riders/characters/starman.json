@@ -1,0 +1,10 @@
+{
+  "name": "Starman",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/019ea93b-0766-7eb4-af93-194ca03e8545.png"
+      }
+    }
+  ]
+}

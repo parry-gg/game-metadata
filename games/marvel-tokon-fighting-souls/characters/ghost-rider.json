@@ -1,0 +1,10 @@
+{
+  "name": "Ghost Rider",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/01a08b87-14f3-72c2-9bc7-ab9b85c35938.png"
+      }
+    }
+  ]
+}
