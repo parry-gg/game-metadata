@@ -1,0 +1,10 @@
+{
+  "name": "Rufus",
+  "variants": [
+    {
+      "images": {
+        "stock_icon": "https://parrygg.b-cdn.net/01a11afd-72dd-7702-b601-a515bae40396.png"
+      }
+    }
+  ]
+}
